@@ -1,0 +1,65 @@
+
+baseURL = "https://danielebailo.github.io/" # <-- Aggiornato con il tuo username!
+languageCode = "it-it"
+title = "Daniele Bailo"
+theme = "PaperMod"
+
+[params]
+  author = "Daniele Bailo"
+  description = "Sito personale e professionale di Daniele Bailo, Tecnologo presso INGV e EPOS-ERIC IT Officer."
+  defaultTheme = "light"
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowPostNavLinks = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Daniele Bailo"
+    subtitle = "Technologist @ INGV | EPOS-ERIC IT Officer"
+    imageUrl = "/foto.jpg"
+    imageWidth = 150
+    imageHeight = 150
+    
+    [[params.profileMode.buttons]]
+    name = "Curriculum Vitae"
+    url = "/CV_Daniele_Bailo.pdf"
+
+# --- Sezione Social Icons Corretta (SENZA [params.socialIcons]) ---
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:daniele.bailo@ingv.it"
+
+  [[params.socialIcons]]
+  name = "googlescholar"
+  url = "https://scholar.google.it/citations?user=-bX_yVsAAAAJ"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/danielebailo"
+
+  [[params.socialIcons]]
+  name = "researchgate"
+  url = "https://www.researchgate.net/profile/Daniele-Bailo"
+
+# --- Menu di Navigazione ---
+[menu]
+  [[menu.main]]
+    identifier = "bio"
+    name = "Bio"
+    url = "/bio/"
+    weight = 10
+  [[menu.main]]
+    identifier = "pubblicazioni"
+    name = "Pubblicazioni"
+    url = "/pubblicazioni/"
+    weight = 20
+  [[menu.main]]
+    identifier = "attivita"
+    name = "Attività"
+    url = "/attivita/"
+    weight = 30
+  [[menu.main]]
+    identifier = "contatti"
+    name = "Contatti"
+    url = "/contatti/"
+    weight = 40

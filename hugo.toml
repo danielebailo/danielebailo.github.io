@@ -1,5 +1,5 @@
 
-baseURL = "https://danielebailo.github.io/" # <-- Aggiornato con il tuo username!
+baseURL = "https://danielebailo.github.io/"
 languageCode = "it-it"
 title = "Daniele Bailo"
 theme = "PaperMod"

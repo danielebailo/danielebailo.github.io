@@ -1,13 +1,9 @@
 ---
-
 title: "Profilo professionale"
 summary: "Profilo, formazione ed esperienza professionale"
 weight: 1
----------
-
 ---
 
-## CORPO DELLA PAGINA (MARKDOWN)
 
 ## Profilo
 

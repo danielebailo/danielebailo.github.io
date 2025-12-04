@@ -54,6 +54,11 @@ theme = "PaperMod"
     url = "/pubblicazioni/"
     weight = 20
   [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 25
+  [[menu.main]]
     identifier = "attivita"
     name = "Attività"
     url = "/attivita/"

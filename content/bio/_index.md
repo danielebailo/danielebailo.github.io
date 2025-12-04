@@ -1,13 +1,9 @@
 ---
-
 title: "Profilo professionale"
 summary: "Profilo, formazione ed esperienza professionale"
 weight: 1
----------
-
 ---
 
-## CORPO DELLA PAGINA (MARKDOWN)
 
 ## Profilo
 
@@ -127,9 +123,3 @@ Attività principali:
 * Insegnante di **Informatica e Sistemi** (classe A042) presso istituto tecnico.
 * Attività di docenza, formazione e seminari in contesti EPOS, ENVRI, Open Science e Open Data, in Italia e all’estero.
 * Sviluppo di siti web e applicazioni (WordPress, PHP, JavaScript) per progetti esterni e personali.
-
----
-
-3. OUTPUT
-
----

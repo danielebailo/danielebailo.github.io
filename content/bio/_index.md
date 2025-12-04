@@ -31,28 +31,19 @@ La sua attività scientifica comprende **numerosi contributi su riviste internaz
 
 - **Maturità Scientifica**, Liceo Scientifico “G. Peano”, 1997 (60/60).
 
-### Formazione professionale continua (selezione) – ordine cronologico inverso
-
-- **2025** — *Intelligenza Artificiale: progettazione sicura e robusta*, Team SERICS Academy (ottobre–dicembre 2025).  
-- **2024** — *ChEESE Training: Artificial Intelligence and Machine Learning for Geosciences*, 5–7 novembre 2024.  
-- **2024** — Corso INGV: *Come scrivere una proposta nel programma Infrastrutture di Ricerca di Horizon Europe*.  
-- **2024** — Corso INGV: *I segretari della Commissione dei concorsi pubblici*.  
-- **2024** — Corso GARR: *Intelligenza Artificiale e nuovo Regolamento Europeo*.  
-- **2024** — Certificazione PA: *Competenze digitali per la Pubblica Amministrazione – Tecnologie emergenti per la trasformazione digitale*.  
-- **2022** — *FAIR Implementation Profiles (FIPs) Training Workshop* (Earth Science Services), 9 ore.  
-- **2021** — Corso Inglese B2, Darby School, Roma.  
-- **2019** — *ENVRI FAIR training* (FAIRness, terminologie, capacity building).  
-- **2017** — *VRE4EIC / EPOS / ENVRI+ Training Sessions* su VRE e integrazione servizi.  
-- **2015** — *EGI Training Sessions* (cloud, distributed computing, hybrid infrastructures).  
-- **2015** — *FitSM Foundation* in IT Service Management (esame superato).  
-- **2014** — GSAC Workshop: *GSAC Software Training*.  
-- **2009** — *National School-Conference on Molecular Materials for Photonics and Electronics*.
+- **Formazione professionale continua** (selezione):  
+  - Corsi su Machine Learning e progettazione robusta dell'AI (Cheese Training 5–7 novembre 2024, Team SERICS Academy (ottobre–dicembre 2025)
+  - Corsi su FAIR data management e Research Data Management in ambito EPOS, ENVRI.  
+  - Formazione su AI e tecnologie emergenti per la Pubblica Amministrazione e la trasformazione digitale (GARR, PA Digitale, 2024).  
+  - **FitSM Foundation in IT Service Management** (2015).  
+  - Workshop e training su e-infrastructures, cloud, HPC, virtual research environments e gestione di servizi digitali per la ricerca.  
+  - Corso di inglese livello **B2** (Darby School, Roma, 2021).
 
 ---
 
 ## Esperienza professionale
 
-### Technologist III – INGV / EPOS-ERIC (2018 – oggi)
+### Tecnologo III Liv. – INGV / EPOS-ERIC (2018 – oggi)
 
 Tecnologo di III livello presso l’INGV, inquadrato nell’EPOS Management Office ICT.  
 Svolge il ruolo di **EPOS-ERIC IT Officer**, con responsabilità sulla strategia IT, sulla roadmap tecnica della piattaforma e sul coordinamento del team internazionale che sviluppa l’**EPOS Data Portal**, una piattaforma open source basata su architetture a microservizi, orchestrazione tramite Docker/Kubernetes, autenticazione federata (OAuth2, OpenID Connect, AARC Blueprint), integrazione semantica e gestione FAIR dei dati.
@@ -67,14 +58,14 @@ Attività principali:
 
 ---
 
-### Teaching Assistant – LUISS (2024)
+### Tecnologo III Liv. – LUISS (2024)
 
 Supporto didattico per il corso di **Informatica** (Economia e Management).  
 Didattica su Python, NumPy, Pandas, Plotly e basi della data science applicata all’economia.
 
 ---
 
-### Technologist III – INGV / EPOS (2016 – 2018)
+### Tecnologo III Liv. – INGV / EPOS (2016 – 2018)
 
 Coordinamento del gruppo tecnico EPOS per lo sviluppo dell’EPOS Data Portal nel progetto **EPOS-IP** (WP7).  
 Introduzione del metodo **Agile/Shape-Up**.

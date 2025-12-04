@@ -1,4 +1,3 @@
-
 baseURL = "https://danielebailo.github.io/"
 languageCode = "it-it"
 title = "Daniele Bailo"
@@ -15,16 +14,15 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "Daniele Bailo"
-    subtitle = "Technologist @ INGV | EPOS-ERIC IT Officer"
+    subtitle = "Technologist @ INGV | EPOS-ERIC IT Officer<br>Research Infrastructures, FAIR data, AI for Geosciences"
     imageUrl = "/foto.jpg"
     imageWidth = 150
     imageHeight = 150
-    
-    [[params.profileMode.buttons]]
-    name = "Curriculum Vitae"
-    url = "/CV_Daniele_Bailo.pdf"
 
-# --- Sezione Social Icons Corretta (SENZA [params.socialIcons]) ---
+    [[params.profileMode.buttons]]
+    name = "Scarica CV completo (PDF)"
+    url = "/cv/daniele_bailo_cv.pdf"
+
   [[params.socialIcons]]
   name = "email"
   url = "mailto:daniele.bailo@ingv.it"
@@ -34,14 +32,9 @@ theme = "PaperMod"
   url = "https://scholar.google.it/citations?user=-bX_yVsAAAAJ"
 
   [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/danielebailo"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/daniele-bailo-00894025/"
 
-  [[params.socialIcons]]
-  name = "researchgate"
-  url = "https://www.researchgate.net/profile/Daniele-Bailo"
-
-# --- Menu di Navigazione ---
 [menu]
   [[menu.main]]
     identifier = "bio"

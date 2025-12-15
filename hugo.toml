@@ -21,7 +21,7 @@ markup = {
   [params.profileMode]
     enabled = true
     title = "Daniele Bailo"
-    subtitle = "Technologist @ INGV | EPOS-ERIC IT Officer<br>Research Infrastructures, FAIR data, AI for Geosciences"
+    subtitle = "Technologist @ INGV | EPOS-ERIC IT Officer<br />Research Infrastructures, FAIR data, AI for Geosciences"
     imageUrl = "/foto.jpg"
     imageWidth = 150
     imageHeight = 150

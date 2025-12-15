@@ -2,6 +2,13 @@ baseURL = "https://danielebailo.github.io/"
 languageCode = "it-it"
 title = "Daniele Bailo"
 theme = "PaperMod"
+markup = {
+  goldmark = {
+    renderer = {
+      unsafe = true
+    }
+  }
+}
 
 [params]
   author = "Daniele Bailo"

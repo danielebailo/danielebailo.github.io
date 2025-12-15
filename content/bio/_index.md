@@ -5,8 +5,6 @@ weight: 1
 ---
 
 
-## CORPO DELLA PAGINA (MARKDOWN)
-
 ## Profilo
 
 Guidato da una forte creatività tecnica e dalla capacità di immaginare soluzioni innovative, **Daniele Bailo** opera da anni all’intersezione tra **Research Data Management** e **Intelligenza Artificiale**, sviluppando approcci originali per l’integrazione, la gestione e la valorizzazione dei dati nelle Scienze della Terra.
@@ -125,9 +123,3 @@ Attività principali:
 * Insegnante di **Informatica e Sistemi** (classe A042) presso istituto tecnico.
 * Attività di docenza, formazione e seminari in contesti EPOS, ENVRI, Open Science e Open Data, in Italia e all’estero.
 * Sviluppo di siti web e applicazioni (WordPress, PHP, JavaScript) per progetti esterni e personali.
-
----
-
-3. OUTPUT
-
----

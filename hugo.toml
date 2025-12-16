@@ -23,7 +23,7 @@ min_version = "0.146.0"
     subtitle = """
 Technologist @ INGV | EPOS-ERIC IT Officer
 
-Research Infrastructures • FAIR Data Innovation in Geosciences • Ethical AI Applications
+FAIR Data Innovation in Geosciences • Research Infrastructures • Ethical AI Applications
 """
     imageUrl = "/foto.jpg"
     imageWidth = 150

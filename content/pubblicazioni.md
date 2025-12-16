@@ -541,3 +541,92 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
   *Diffraction and Imaging: A Twofold Challenge.*  
   ESS-Symposium “The ESS Project (European Spallation Source) opportunity for the Italian research?”, Rome (IT), 16 Nov 2010.  
   URL: <https://publications.cnr.it/doc/285935>
+
+---
+
+## Attività di divulgazione e trasferimento delle conoscenze (seminari, lezioni, workshop)
+
+- **Contributo** — ICT Workshop INGV 2021, Roma (IT), 05–06 ottobre 2021.  
+  Presentazione: *EPOS Data Portal – una piattaforma FAIR per l’accesso a dati e servizi multidisciplinari delle Scienze della Terra solida*.
+
+- **Training / divulgazione** — *Training Provenance Tracing in ENVRI Research Infrastructures workshop* (ENVRI).  
+  Intervento: *The EPOS Approach using the main catalogue* — **Daniele Bailo**, Keith Jeffery.  
+  URL: <https://envri.eu/training-provenance-tracing-in-envri-research-infrastructures/>
+
+- **Seminario** — *ICT for Earth Sciences* (INGV–EPOS / ICT@INAF), Bologna (IT), novembre 2017.  
+  Materiali: <https://indico.ict.inaf.it/event/535/contributions/1198/attachments/818/1163/bailo.pdf>
+
+- **Seminario** — **Daniele Bailo**, *FAIR and Real world: Requirements for being FAIR*.  
+  Joint 2020 Nordic Seismology and Nordic EPOS Seminar, 2020.  
+  DOI: <https://doi.org/10.5281/zenodo.4061395>
+
+- **Workshop / talk** — **Bailo, D.**, *The Agile Shape-up method for collaborative developments in international contexts*.  
+  EPOS ICS-TCS Workshop, 31 marzo 2020, virtual meeting.  
+  URL: <https://www.slideshare.net/DanieleBailo/the-agile-shapeup-method-for-collaborative-developments-in-international-contextsa-lean-approach-for-epos>
+
+- **Formazione interna INGV** — **Daniele Bailo**, *Metadata & Brokering - a modern approach for INGV RI*.  
+  25 marzo 2015.  
+  URL: <https://www.slideshare.net/slideshow/metadata-brokering-a-modern-approach-for-ingv-ri/46263714>
+
+- **Formazione interna INGV** — **Daniele Bailo**, *Metadata & brokering - a modern approach #2*.  
+  12 giugno 2015.  
+  URL: <https://www.slideshare.net/slideshow/metadata-brokering-a-modern-approach-2/49332002>
+
+
+---
+
+## Produzione di articoli divulgativi e comunicazione scientifica  
+*(web, social media, riviste di divulgazione)*
+
+- **Bailo, D.** (2022). *European Open Science Cloud (EOSC): crucial challenges and opportunities for the future of EU research*.  
+  **Agenda Digitale**, 14 giugno 2022.  
+  URL: <https://www.agendadigitale.eu/infrastrutture/european-open-science-cloud-eosc-sfide-e-opportunita-cruciali-per-il-futuro-della-ricerca-ue/>
+
+- **Comunicazione scientifica – YouTube INGV**.  
+  Realizzazione di video divulgativi sull’infrastruttura di ricerca **EPOS (European Plate Observing System)**, inclusa nella roadmap **ESFRI**, attiva dal 2008.  
+  Esempio: <https://www.youtube.com/watch?v=cA3UzdsXMdQ>
+
+- **Comunicazione scientifica – YouTube EPOS**.  
+  Sviluppo di contenuti video per promuovere la comprensione dell’iniziativa EPOS e dei suoi obiettivi di ricerca su fenomeni geofisici (terremoti, eruzioni vulcaniche, tsunami).  
+  Esempio: <https://www.youtube.com/watch?v=a4MLbZpHdvE>
+
+- **Bailo, D.; Tellefsen, K.; WP06–WP07 Team** (2018).  
+  *EPOS Data policy and the FAIR principles*.  
+  **EPOS Newsletter**, Issue 02 (April 2018), *Top Tips 01*.
+
+- **Atakan, K.; Bailo, D.; Harrison, M.; Jeffery, K.; Michalek, J.; Tellefsen, K.** (2018).  
+  *Status update from the EPOS WP6 and 7 IT Team*.  
+  **EPOS Newsletter**, Issue 01 (January 2018), *Top Tips 01*.
+
+- **Bailo, D.; Sbarra, M.** (2017).  
+  *EPOS – European Plate Observing System: Applying the VRE4EIC Virtual Research Environment Model in the Solid Earth Science Domain*.  
+  **ERCIM News**, 2017.  
+  URL: <http://dblp.uni-trier.de/rec/bib/journals/ercim/BailoS17>
+
+- **Atakan, K.; Bailo, D.; Jeffery, K.; Harrison, M.** (2017).  
+  *Integrated Core Services (ICS) system demonstrator in Prague Integration Workshop*.  
+  **EPOS Newsletter**, Issue 02 (April 2017), *Highlights 03*.
+
+- **Jeffery, K.; Bailo, D.** (2017).  
+  *TOP TIPS – Virtual Research Environments, Science Gateways and Virtual Laboratories*.  
+  **EPOS Newsletter**, Issue 02 (April 2017), *Top Tips 01*.
+
+- **Szepieniec, T.; Bailo, D.; Atakan, K.; Jeffery, K.** (2017).  
+  *Progress in EPOS Authentication and Authorisation Solutions*.  
+  **EPOS-IP Newsletter**, Issue 2017-04, *Top Tips 01*.
+
+- **Jeffery, K.; Bailo, D.; Atakan, K.; Harrison, M.** (2017).  
+  *Demonstrating ICS-C functionalities*.  
+  **EPOS-IP Newsletter**, Issue 2017-02, Article 01, 3 pp.
+
+- **Atakan, K.; Bailo, D.; Jeffery, K.; Harrison, M.** (2017).  
+  *Integrated Core System (ICS) demonstrator at Prague Integration Workshop*.  
+  **EPOS-IP Newsletter**, Issue 2017-02, *Highlights 03*, 3 pp.
+
+- **Cocco, M.; Freda, C.; Bailo, D.** (2017).  
+  *The EPOS contribution to innovation and excellence in science*.  
+  **EPOS Newsletter**, Issue 01 (January 2017), Article 01.
+
+- **Jeffery, K.; Cocco, M.; Atakan, K.; Harrison, M.; Bailo, D.** (2016).  
+  *The EPOS vision on EOSC*.  
+  **EPOS-IP Newsletter**, Issue 2016-02, Article 01, 3 pp.

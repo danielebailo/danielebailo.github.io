@@ -2,6 +2,7 @@ baseURL = "https://danielebailo.github.io/"
 languageCode = "it-it"
 title = "Daniele Bailo"
 theme = "PaperMod"
+min_version = "0.146.0"
 
 [markup]
   [markup.goldmark]
@@ -20,8 +21,8 @@ theme = "PaperMod"
     enabled = true
     title = "Daniele Bailo"
     subtitle = """
-Technologist @ INGV | EPOS-ERIC IT Officer  
-Research Infrastructures, FAIR data, AI for Geosciences
+Technologist @ INGV | EPOS-ERIC IT Officer
+Research Infrastructures • FAIR Data Innovation in Geosciences • Ethical AI Applications
 """
     imageUrl = "/foto.jpg"
     imageWidth = 150

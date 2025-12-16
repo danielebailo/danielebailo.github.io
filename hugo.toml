@@ -46,7 +46,7 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
 
     [[params.profileMode.buttons]]
       name = "Scarica CV completo (PDF)"
-      url = "/static/CV_BAILO.pdf"
+      url = "/CV_BAILO.pdf"
 
   [[params.socialIcons]]
     name = "email"

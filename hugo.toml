@@ -21,7 +21,7 @@ min_version = "0.146.0"
     enabled = true
     title = "Daniele Bailo"
     subtitle = """
-Technologist @ INGV | EPOS-ERIC IT Officer
+EPOS-ERIC IT Officer | Researcher @ INGV 
 
 FAIR Data Innovation in Geosciences • Research Infrastructures • Ethical AI Applications
 """

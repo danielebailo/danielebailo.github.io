@@ -113,7 +113,7 @@ Nel periodo è stato conseguito il **Dottorato di Ricerca in Scienza dei Materia
 
 **Titolo della tesi:**  
 *Studi in-situ morfologico/strutturali di film polimerici per dispositivi fotovoltaici organici: proprietà bulk, di superficie e di interfaccia ed effetti di invecchiamento*  
-(*In-situ Structural/Morphological study of polymer-based active materials for Organic Photovoltaic devices: bulk, surface and interface properties and aging effects*).
+([*In-situ Structural/Morphological study of polymer-based active materials for Organic Photovoltaic devices: bulk, surface and interface properties and aging effects*]([Tesi di dottorato su Zenodo](https://zenodo.org/records/46424))).
 
 Attività di ricerca svolta presso il gruppo di **spettroscopia X del CNR – Roma/Tor Vergata (Istituto di Struttura della Materia)**.
 

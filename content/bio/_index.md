@@ -5,8 +5,6 @@ weight: 1
 ---
 
 
-## Profilo
-
 Guidato da una forte creatività tecnica e dalla capacità di immaginare soluzioni innovative, **Daniele Bailo** opera da anni all’intersezione tra **Research Data Management** e **Intelligenza Artificiale**, sviluppando approcci originali per l’integrazione, la gestione e la valorizzazione dei dati nelle Scienze della Terra.
 
 È **IT Officer di EPOS-ERIC**, con responsabilità strategiche sull’evoluzione dell’infrastruttura digitale europea dedicata all’accesso integrato a dati, servizi e software multidisciplinari.

@@ -13,7 +13,7 @@ Gli indicatori bibliometrici aggiornati (citazioni, h-index) e l’elenco comple
 
 
 ## Indice
-- [Pubblicazioni](#pubblicazioni-scientifiche)
+- [Pubblicazioni Scientifiche](#pubblicazioni-scientifiche)
 - [Sviluppo software](#sviluppo-software)
 - [Deliverable di progetto](#deliverable-di-progetto)
 - [Milestone di progetto](#milestone-di-progetto)

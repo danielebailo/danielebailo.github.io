@@ -9,9 +9,20 @@ Gli indicatori bibliometrici aggiornati (citazioni, h-index) e l’elenco comple
 - [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57194540419)  
 - [ORCID](https://orcid.org/0000-0003-0695-4406)
 
+
+## Indice
+- [Pubblicazioni](#pubblicazioni)
+- [Sviluppo software](#sviluppo-software)
+- [Deliverable di progetto](#deliverable-di-progetto)
+- [Milestone di progetto](#milestone-di-progetto)
+- [Atti di Convegno](#atti-di-convegno)
+- [Attività di divulgazione e trasferimento delle conoscenze](#attività-di-divulgazione-e-trasferimento-delle-conoscenze-seminari-lezioni-workshop)
+- [Produzione di articoli divulgativi e comunicazione scientifica](#produzione-di-articoli-divulgativi-e-comunicazione-scientifica)
+
+
 ---
 
-## Pubblicazioni
+## Pubblicazioni Scientifiche
 
 ### 2024
 

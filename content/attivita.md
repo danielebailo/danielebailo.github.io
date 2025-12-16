@@ -51,8 +51,11 @@ title: "Attività"
 - **EUDAT** (2012–2015) — Analisi dei requisiti EPOS per l’integrazione con la Collaborative Data Infrastructure.
 - **EPOS-PP** (2010–2014) — Contributo alla definizione dell’architettura e del piano di implementazione di EPOS.
 
-### Altri Ruoli e Incarichi
-- **Membro dell'Editorial Board** di *Frontiers in Environmental Science*.
-- **Revisore** per riviste scientifiche internazionali, tra cui *Nature Scientific Data*, *SoftwareX*, *Elsevier "SoftwareX" Journal*.
-- **Membro della Task Force EOSC** sulla "Technical Interoperability of Data and Services".
-- **Coordinatore dell'IT Board** di EPOS-ERIC.
+### Editorial Board Memberships
+
+- **Editorial Board Member** — *Frontiers in Environmental Science*  
+  Sezione: **Environmental Informatics and Remote Sensing**  
+  **Periodo:** dal 19/09/2022 – ad oggi
+
+- **Editorial Board Member** — *Nature Scientific Data*  
+  **Periodo:** dal 10/12/2024 – ad oggi

@@ -2,6 +2,7 @@ baseURL = "https://danielebailo.github.io/"
 languageCode = "it-it"
 title = "Daniele Bailo"
 theme = "PaperMod"
+min_version = "0.146.0"
 
 [markup]
   [markup.goldmark]

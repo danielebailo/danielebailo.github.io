@@ -3,6 +3,8 @@ title: "Contatti"
 ---
 
 ### Indirizzo
+Ing. Daniele Bailo
+Sezione Roma 1
 Istituto Nazionale di Geofisica e Vulcanologia (INGV)  
 Via di Vigna Murata, 605  
 00143 Roma, Italia

@@ -4,13 +4,20 @@ title = "Daniele Bailo"
 theme = "PaperMod"
 min_version = "0.146.0"
 
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
 
-
+# -------------------------
+# MARKUP
+# -------------------------
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+# -------------------------
+# PARAMS (PaperMod)
+# -------------------------
 [params]
   author = "Daniele Bailo"
   description = "Sito personale e professionale di Daniele Bailo, Tecnologo presso INGV e EPOS-ERIC IT Officer."
@@ -23,9 +30,9 @@ min_version = "0.146.0"
     enabled = true
     title = "Daniele Bailo"
     subtitle = """
-EPOS-ERIC IT Officer | Researcher @ INGV 
+EPOS-ERIC IT Officer | Researcher @ INGV
 
-FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Infrastructures  
+FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Infrastructures
 """
     imageUrl = "/foto.jpg"
     imageWidth = 150
@@ -47,79 +54,79 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
     name = "linkedin"
     url = "https://www.linkedin.com/in/daniele-bailo-00894025/"
 
-
-defaultContentLanguage = "it"
-defaultContentLanguageInSubdir = false
-
+# -------------------------
+# LANGUAGES
+# -------------------------
 [languages]
 
+  # -------- ITALIANO (ROOT) --------
   [languages.it]
-  languageName = "IT"
-  weight = 1
-  languageCode = "it-IT"
+    languageName = "IT"
+    languageCode = "it-IT"
+    weight = 1
 
-  [[languages.it.menu.main]]
-    identifier = "bio"
-    name = "Bio"
-    url = "bio/"
-    weight = 10
+    [[languages.it.menu.main]]
+      identifier = "bio"
+      name = "Bio"
+      url = "bio/"
+      weight = 10
 
-  [[languages.it.menu.main]]
-    identifier = "pubblicazioni"
-    name = "Pubblicazioni"
-    url = "pubblicazioni/"
-    weight = 20
+    [[languages.it.menu.main]]
+      identifier = "pubblicazioni"
+      name = "Pubblicazioni"
+      url = "pubblicazioni/"
+      weight = 20
 
-  [[languages.it.menu.main]]
-    identifier = "news"
-    name = "News"
-    url = "news/"
-    weight = 25
+    [[languages.it.menu.main]]
+      identifier = "news"
+      name = "News"
+      url = "news/"
+      weight = 25
 
-  [[languages.it.menu.main]]
-    identifier = "attivita"
-    name = "Attività"
-    url = "attivita/"
-    weight = 30
+    [[languages.it.menu.main]]
+      identifier = "attivita"
+      name = "Attività"
+      url = "attivita/"
+      weight = 30
 
-  [[languages.it.menu.main]]
-    identifier = "contatti"
-    name = "Contatti"
-    url = "contatti/"
-    weight = 40
+    [[languages.it.menu.main]]
+      identifier = "contatti"
+      name = "Contatti"
+      url = "contatti/"
+      weight = 40
 
-
+  # -------- ENGLISH (/en/) --------
   [languages.en]
-  languageName = "EN"
-  weight = 2
-  languageCode = "en-GB"
+    languageName = "EN"
+    languageCode = "en-GB"
+    weight = 2
 
-  [[languages.en.menu.main]]
-    identifier = "bio"
-    name = "Bio"
-    url = "bio/"
-    weight = 10
+    [[languages.en.menu.main]]
+      identifier = "bio"
+      name = "Bio"
+      url = "bio/"
+      weight = 10
 
-  [[languages.en.menu.main]]
-    identifier = "pubblicazioni"
-    name = "Publications"
-    url = "pubblicazioni/"
-    weight = 20
+    [[languages.en.menu.main]]
+      identifier = "pubblicazioni"
+      name = "Publications"
+      url = "pubblicazioni/"
+      weight = 20
 
-  [[languages.en.menu.main]]
-    identifier = "news"
-    name = "News"
-    url = "news/"
-    weight = 25
+    [[languages.en.menu.main]]
+      identifier = "news"
+      name = "News"
+      url = "news/"
+      weight = 25
 
-  [[languages.en.menu.main]]
-    identifier = "attivita"
-    name = "Activities"
-    url = "attivita/"
-    weight = 30
+    [[languages.en.menu.main]]
+      identifier = "attivita"
+      name = "Activities"
+      url = "attivita/"
+      weight = 30
 
-  [[languages.en.menu.main]]
-    identifier = "contatti"
-    name = "Contacts"
-    url = "contatti/"
-    weight = 40
+    [[languages.en.menu.main]]
+      identifier = "contatti"
+      name = "Contacts"
+      url = "contatti/"
+      weight = 40

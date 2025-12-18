@@ -4,8 +4,7 @@ title = "Daniele Bailo"
 theme = "PaperMod"
 min_version = "0.146.0"
 
-defaultContentLanguage = "it"
-defaultContentLanguageInSubdir = false
+
 
 [markup]
   [markup.goldmark]
@@ -47,6 +46,10 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/daniele-bailo-00894025/"
+
+
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = true
 
 [languages]
 

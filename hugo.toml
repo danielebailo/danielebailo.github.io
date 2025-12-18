@@ -60,33 +60,75 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
     name = "linkedin"
     url = "https://www.linkedin.com/in/daniele-bailo-00894025/"
 
-[menu]
-  [[menu.main]]
+[languages]
+
+  [languages.it]
+  languageName = "IT"
+  weight = 1
+  languageCode = "it-IT"
+
+  [[languages.it.menu.main]]
     identifier = "bio"
     name = "Bio"
     url = "/bio/"
     weight = 10
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "pubblicazioni"
     name = "Pubblicazioni"
     url = "/pubblicazioni/"
     weight = 20
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "news"
     name = "News"
     url = "/news/"
     weight = 25
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "attivita"
     name = "Attività"
     url = "/attivita/"
     weight = 30
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "contatti"
     name = "Contatti"
     url = "/contatti/"
+    weight = 40
+
+
+  [languages.en]
+  languageName = "EN"
+  weight = 2
+  languageCode = "en-GB"
+
+  [[languages.en.menu.main]]
+    identifier = "bio"
+    name = "Bio"
+    url = "/en/bio/"
+    weight = 10
+
+  [[languages.en.menu.main]]
+    identifier = "pubblicazioni"
+    name = "Publications"
+    url = "/en/pubblicazioni/"
+    weight = 20
+
+  [[languages.en.menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/en/news/"
+    weight = 25
+
+  [[languages.en.menu.main]]
+    identifier = "attivita"
+    name = "Activities"
+    url = "/en/attivita/"
+    weight = 30
+
+  [[languages.en.menu.main]]
+    identifier = "contatti"
+    name = "Contacts"
+    url = "/en/contatti/"
     weight = 40

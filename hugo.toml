@@ -59,74 +59,73 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
 # -------------------------
 [languages]
 
-  # -------- ITALIANO (ROOT) --------
   [languages.it]
     languageName = "IT"
-    languageCode = "it-IT"
     weight = 1
+    languageCode = "it-IT"
 
     [[languages.it.menu.main]]
       identifier = "bio"
       name = "Bio"
-      url = "bio/"
+      url = "/bio/"
       weight = 10
 
     [[languages.it.menu.main]]
       identifier = "pubblicazioni"
       name = "Pubblicazioni"
-      url = "pubblicazioni/"
+      url = "/pubblicazioni/"
       weight = 20
 
     [[languages.it.menu.main]]
       identifier = "news"
       name = "News"
-      url = "news/"
+      url = "/news/"
       weight = 25
 
     [[languages.it.menu.main]]
       identifier = "attivita"
       name = "Attività"
-      url = "attivita/"
+      url = "/attivita/"
       weight = 30
 
     [[languages.it.menu.main]]
       identifier = "contatti"
       name = "Contatti"
-      url = "contatti/"
+      url = "/contatti/"
       weight = 40
 
-  # -------- ENGLISH (/en/) --------
+
   [languages.en]
     languageName = "EN"
-    languageCode = "en-GB"
     weight = 2
+    languageCode = "en-GB"
 
     [[languages.en.menu.main]]
       identifier = "bio"
       name = "Bio"
-      url = "bio/"
+      url = "/en/bio/"
       weight = 10
 
     [[languages.en.menu.main]]
       identifier = "pubblicazioni"
       name = "Publications"
-      url = "pubblicazioni/"
+      url = "/en/pubblicazioni/"
       weight = 20
 
     [[languages.en.menu.main]]
       identifier = "news"
       name = "News"
-      url = "news/"
+      url = "/en/news/"
       weight = 25
 
     [[languages.en.menu.main]]
       identifier = "attivita"
       name = "Activities"
-      url = "attivita/"
+      url = "/en/attivita/"
       weight = 30
 
     [[languages.en.menu.main]]
       identifier = "contatti"
       name = "Contacts"
-      url = "contatti/"
+      url = "/en/contatti/"
       weight = 40

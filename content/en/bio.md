@@ -2,6 +2,7 @@
 title: "Professional Profile"
 summary: "Profile, education and professional experience"
 weight: 1
+translationKey: bio
 ---
 
 Driven by strong technical creativity and the ability to envision innovative solutions, **Daniele Bailo** has been working for many years at the intersection of **Research Data Management** and **Artificial Intelligence**, developing original approaches for data integration, management, and valorisation in the Earth Sciences.

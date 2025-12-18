@@ -1,5 +1,6 @@
 ---
 title: "Activities"
+translationKey: attivita
 ---
 
 ### Research Interests

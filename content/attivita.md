@@ -1,5 +1,6 @@
 ---
 title: "Attività"
+translationKey: attivita
 ---
 
 ### Interessi di Ricerca

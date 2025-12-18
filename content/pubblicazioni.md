@@ -1,5 +1,6 @@
 ---
 title: "Pubblicazioni"
+translationKey: pubblicazioni
 ---
 
 L’attività scientifica di Daniele Bailo comprende pubblicazioni su riviste internazionali peer-reviewed, contributi a conferenze scientifiche, deliverable di progetto e sviluppo software open source nell’ambito delle infrastrutture di ricerca, AI and Geosciences, Research Data Management e delle Scienze della Terra.

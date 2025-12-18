@@ -1,5 +1,6 @@
 ---
 title: "Contatti"
+translationKey: contatti
 ---
 
 ### Indirizzo

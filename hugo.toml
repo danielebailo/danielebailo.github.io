@@ -18,6 +18,7 @@ defaultContentLanguageInSubdir = false
 # PARAMS (PaperMod)
 # -------------------------
 [params]
+
   author = "Daniele Bailo"
   description = "Sito personale e professionale di Daniele Bailo, Tecnologo presso INGV e EPOS-ERIC IT Officer."
   defaultTheme = "light"

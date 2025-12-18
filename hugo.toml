@@ -25,6 +25,7 @@ defaultContentLanguageInSubdir = false
   ShowShareButtons = false
   ShowReadingTime = false
   ShowPostNavLinks = false
+  hideTranslations = true
 
   [params.profileMode]
     enabled = true

@@ -7,18 +7,6 @@ min_version = "0.146.0"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = false
 
-[languages]
-
-  [languages.it]
-  languageName = "IT"
-  weight = 1
-  languageCode = "it-IT"
-
-  [languages.en]
-  languageName = "EN"
-  weight = 2
-  languageCode = "en-GB"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

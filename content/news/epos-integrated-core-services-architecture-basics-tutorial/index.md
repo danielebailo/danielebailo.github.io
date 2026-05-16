@@ -1,0 +1,22 @@
+---
+title: "EPOS Integrated Core Services Architecture Basics - TUTORIAL"
+date: 2019-07-11
+categories: 
+  - "job"
+  - "technology-ict"
+cover:
+  image: "images/Schermata-2019-07-11-alle-12.54.25.png"
+  alt: ""
+  caption: ""
+  relative: true
+---
+
+[![](images/orcid.png)](https://orcid.org/0000-0003-0695-4406) Bailo, Daniele; [![](images/orcid.png)](https://orcid.org/0000-0002-6975-1991) Paciello, Rossana
+
+[![10.5281/zenodo.3328658](images/zenodo.3328658.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.3328658.svg)
+
+The presentation outlines the basics of the EPOS Integrated Core Services Central hub, a system for integrate Data, Data Products, Software and Services provided by European data providers in the domain of Solid Earth Sciences.
+
+The main architecture is shown and the technological choices are presented and discussed.
+
+\[slideshare id=154898130&doc=2019-190711094106&w=400&h=300\]

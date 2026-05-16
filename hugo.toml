@@ -3,6 +3,10 @@ title = "Daniele Bailo"
 theme = "PaperMod"
 min_version = "0.146.0"
 
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = true
+
 
 # -------------------------
 # MARKUP
@@ -56,9 +60,6 @@ FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Inf
 # -------------------------
 # LANGUAGES
 # -------------------------
-
-defaultContentLanguage = "it"
-defaultContentLanguageInSubdir = false
 
 [languages]
 

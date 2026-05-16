@@ -1,6 +1,8 @@
 ---
 title: "Attività"
 translationKey: attivita
+aliases:
+  - /it/attivita/
 ---
 
 ### Interessi di Ricerca

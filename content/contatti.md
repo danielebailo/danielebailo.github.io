@@ -1,6 +1,8 @@
 ---
 title: "Contatti"
 translationKey: contatti
+aliases:
+  - /it/contatti/
 ---
 
 ### Indirizzo

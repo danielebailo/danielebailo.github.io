@@ -3,6 +3,8 @@ title: "Profilo professionale"
 summary: "Profilo, formazione ed esperienza professionale"
 weight: 1
 translationKey: bio
+aliases:
+  - /it/bio/
 ---
 
 Guidato da una forte creatività tecnica e dalla capacità di immaginare soluzioni innovative, **Daniele Bailo** opera da anni all’intersezione tra **Research Data Management** e **Intelligenza Artificiale**, sviluppando approcci originali per l’integrazione, la gestione e la valorizzazione dei dati nelle Scienze della Terra.

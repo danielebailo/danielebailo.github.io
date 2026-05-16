@@ -1,6 +1,8 @@
 
 ---
 title: "Home"
+aliases:
+  - /it/
 ---
 
 Sono un tecnologo presso l'**Istituto Nazionale di Geofisica e Vulcanologia (INGV)** e ricopro il ruolo di **IT Officer** per l'infrastruttura di ricerca europea **EPOS-ERIC** (European Plate Observing System).

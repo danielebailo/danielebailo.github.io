@@ -33,9 +33,17 @@ disableDefaultLanguageRedirect = true
     enabled = true
     title = "Daniele Bailo"
     subtitle = """
-EPOS-ERIC IT Officer | Researcher @ INGV
-
-FAIR Data Innovation in Geosciences • Ethical AI Applications • Research Infrastructures
+<span class="hero-copy">
+  <span class="hero-role">AI Initiative Coordinator @ INGV | IT Officer @ EPOS-ERIC</span>
+  <span class="hero-main">Responsible AI & Knowledge Systems in Geosciences</span>
+  <span class="hero-keywords">
+    <span>GeoAI</span>
+    <span>FAIR Data</span>
+    <span>Open Science</span>
+    <span>Research Infrastructures</span>
+    <span>AI Ethics</span>
+  </span>
+</span>
 """
     imageUrl = "/foto.jpg"
     imageWidth = 150

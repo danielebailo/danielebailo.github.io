@@ -1,6 +1,7 @@
 ---
 title: "Lavorare con un illuminato (non è una pubblicità dell'ENEL) (EGU #3)"
 date: 2013-04-16
+translationKey: "lavorare-con-un-genio-egu-3"
 categories: 
   - "job"
   - "ordinariabellezza"

@@ -1,6 +1,7 @@
 ---
 title: "#italiasicura"
 date: 2015-06-03
+translationKey: "italiasicura"
 categories: 
   - "job"
   - "technology-ict"

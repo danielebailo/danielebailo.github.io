@@ -1,6 +1,7 @@
 ---
 title: "EPOS: an e-Infrastructure to integrate Solid Earth Science data"
 date: 2015-02-20
+translationKey: "epos-an-e-infrastructure-to-integrate-solid-earth-science-data"
 categories: 
   - "job"
   - "technology-ict"

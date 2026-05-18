@@ -1,6 +1,7 @@
 ---
 title: "Metadata & Brokering -  a modern approach"
 date: 2015-03-25
+translationKey: "metadata-brokering-a-modern-approach"
 categories: 
   - "job"
   - "technology-ict"

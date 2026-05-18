@@ -1,6 +1,7 @@
 ---
 title: "Le donne di Lisbona hanno bei polpacci..."
 date: 2015-06-10
+translationKey: "le-donne-di-lisbona-hanno-bei-polpacci"
 categories: 
   - "job"
   - "ordinariabellezza"

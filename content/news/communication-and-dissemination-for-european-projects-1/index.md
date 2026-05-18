@@ -1,6 +1,7 @@
 ---
 title: "Communication and Dissemination for European Projects (#1)"
 date: 2015-09-10
+translationKey: "communication-and-dissemination-for-european-projects-1"
 categories: 
   - "job"
   - "technology-ict"

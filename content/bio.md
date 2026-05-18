@@ -36,28 +36,40 @@ La sua attività scientifica comprende **numerosi contributi su riviste internaz
 
 * **Maturità Scientifica**, Liceo Scientifico “G. Peano”, 1997 (60/60).
 
-### Formazione professionale continua (selezione) – ordine cronologico inverso
-
-* **2025** — *Intelligenza Artificiale: progettazione sicura e robusta*, Team SERICS Academy (ottobre–dicembre 2025).
-* **2024** — *ChEESE Training: Artificial Intelligence and Machine Learning for Geosciences*, 5–7 novembre 2024.
-* **2024** — Corso INGV: *Come scrivere una proposta nel programma Infrastrutture di Ricerca di Horizon Europe*.
-* **2024** — Corso INGV: *I segretari della Commissione dei concorsi pubblici*.
-* **2024** — Corso GARR: *Intelligenza Artificiale e nuovo Regolamento Europeo*.
-* **2024** — Certificazione PA: *Competenze digitali per la Pubblica Amministrazione – Tecnologie emergenti per la trasformazione digitale*.
-* **2022** — *FAIR Implementation Profiles (FIPs) Training Workshop* (Earth Science Services), 9 ore.
-* **2021** — Corso Inglese B2, Darby School, Roma.
-* **2019** — *ENVRI FAIR training* (FAIRness, terminologie, capacity building).
-* **2017** — *VRE4EIC / EPOS / ENVRI+ Training Sessions* su VRE e integrazione servizi.
-* **2015** — *EGI Training Sessions* (cloud, distributed computing, hybrid infrastructures).
-* **2015** — *FitSM Foundation* in IT Service Management (esame superato).
-* **2014** — GSAC Workshop: *GSAC Software Training*.
-* **2009** — *National School-Conference on Molecular Materials for Photonics and Electronics*.
-
 ---
 
 ## Esperienza professionale
 
-### Tecnologo III livello – INGV / EPOS-ERIC (2016 – oggi)
+### Docente al Master GeoAI – Università Roma Tre (2025 – 2026)
+
+Docente nel Master di II livello **GeoAI: Intelligenza artificiale, sistemi GIS e applicazioni**, dedicato all’integrazione tra AI, machine learning, GIS e dati geospaziali.  
+Ha curato le lezioni sulla **intelligenza artificiale generativa** nei mesi di febbraio e marzo 2026.
+
+---
+
+### Primo Tecnologo II livello – INGV / EPOS-ERIC (2025 – oggi)
+
+Primo Tecnologo di II livello presso l’Istituto Nazionale di Geofisica e Vulcanologia (INGV), dove continua a integrare responsabilità tecniche su infrastrutture digitali per le geoscienze e coordinamento di attività sull’**intelligenza artificiale**.
+
+All’interno della Sezione Roma 1 continua a ricoprire il ruolo di **Responsabile dell’Unità Funzionale “Geofisica Computazionale – Sistemi Informativi – EPOS”** e a lavorare nell’**EPOS Management Office**, IT Unit.  
+Come **EPOS-ERIC IT Officer** mantiene responsabilità sulla strategia IT dell’infrastruttura e svolge il ruolo di **Chair dell’IT Board**, incaricato di coordinare l’integrazione di dati, servizi e software della **EPOS Platform**.
+
+In ambito INGV coordina il progetto **AI@INGV**, promuovendo l’uso responsabile di AI generativa, LLM/RAG e agenti intelligenti, e contribuisce a linee di ricerca su deep learning per il picking automatico delle forme d’onda sismiche. Si occupa inoltre di formazione sull’AI e della dimensione etica dell’intelligenza artificiale applicata alle geoscienze, anche attraverso prospettive legate alla **Embodied Cognition**. È membro di [**SEPAI**](https://www.sepai-international.org/), la Società per l’Etica e la Politica dell’Intelligenza Artificiale.
+
+Attività principali:
+
+- Chair dell’**EPOS-ERIC IT Board** per il coordinamento dell’integrazione di dati, servizi e software della EPOS Platform.
+- Responsabilità sulla strategia IT di EPOS-ERIC e sull’evoluzione tecnica della EPOS Platform.
+- Coordinamento dell’Unità Funzionale “Geofisica Computazionale – Sistemi Informativi – EPOS” presso INGV Roma 1.
+- Coordinamento del progetto **AI@INGV** e promozione di attività istituzionali su AI generativa, LLM/RAG e agenti intelligenti.
+- Attività di ricerca e sperimentazione su deep learning per la sismologia, con particolare attenzione al picking automatico delle forme d’onda sismiche tramite **PhaseNet** nel framework **SeisBench** in Python.
+- Attività di formazione e disseminazione sull’intelligenza artificiale, incluse dimensioni etiche, applicazioni alle geoscienze e prospettive di Embodied Cognition.
+- Partecipazione a [**SEPAI**](https://www.sepai-international.org/), la Società per l’Etica e la Politica dell’Intelligenza Artificiale.
+- Organizzazione e attività di disseminazione scientifica e tecnica, inclusi eventi istituzionali come l’**AI Day @ INGV**.
+
+---
+
+### Tecnologo III livello – INGV / EPOS-ERIC (2016 – 2025)
 
 Tecnologo di III livello presso l’Istituto Nazionale di Geofisica e Vulcanologia (INGV), inquadrato nell’**EPOS Management Office ICT**.  
 Ricopre il ruolo di **EPOS-ERIC IT Officer**, con responsabilità sulla strategia IT, sulla roadmap tecnica dell’infrastruttura e sul coordinamento del team internazionale che sviluppa l’**EPOS Data Portal**, una piattaforma open source per l’accesso integrato a dati, servizi e software delle Scienze della Terra. La piattaforma è basata su architetture a microservizi, orchestrazione tramite Docker/Kubernetes, autenticazione federata (OAuth2, OpenID Connect, AARC Blueprint), integrazione semantica e gestione FAIR dei dati.
@@ -69,7 +81,6 @@ Attività principali:
 - Definizione di architetture software e modelli informativi per infrastrutture di ricerca distribuite.
 - Sperimentazioni e applicazioni di **deep learning** per la sismologia (es. PhaseNet per il picking automatico).
 - Progettazione e sviluppo di pipeline **LLM/RAG** per agenti intelligenti e sistemi di supporto alle decisioni nelle geoscienze.
-- Organizzazione e attività di disseminazione scientifica e tecnica, inclusi eventi istituzionali come l’**AI Day @ INGV**.
 - Partecipazione alla governance EPOS: IT Board, General Assembly, Executive Committee e Board of Officers.
 
 ---
@@ -130,3 +141,22 @@ Principali ambiti e tecniche:
 
 **Coordinatore:** Ruggero Caminiti  
 **Relatore:** Barbara Paci
+
+---
+
+## Formazione professionale continua (selezione) – ordine cronologico inverso
+
+* **2025** — *Intelligenza Artificiale: progettazione sicura e robusta*, Team SERICS Academy (ottobre–dicembre 2025).
+* **2024** — *ChEESE Training: Artificial Intelligence and Machine Learning for Geosciences*, 5–7 novembre 2024.
+* **2024** — Corso INGV: *Come scrivere una proposta nel programma Infrastrutture di Ricerca di Horizon Europe*.
+* **2024** — Corso INGV: *I segretari della Commissione dei concorsi pubblici*.
+* **2024** — Corso GARR: *Intelligenza Artificiale e nuovo Regolamento Europeo*.
+* **2024** — Certificazione PA: *Competenze digitali per la Pubblica Amministrazione – Tecnologie emergenti per la trasformazione digitale*.
+* **2022** — *FAIR Implementation Profiles (FIPs) Training Workshop* (Earth Science Services), 9 ore.
+* **2021** — Corso Inglese B2, Darby School, Roma.
+* **2019** — *ENVRI FAIR training* (FAIRness, terminologie, capacity building).
+* **2017** — *VRE4EIC / EPOS / ENVRI+ Training Sessions* su VRE e integrazione servizi.
+* **2015** — *EGI Training Sessions* (cloud, distributed computing, hybrid infrastructures).
+* **2015** — *FitSM Foundation* in IT Service Management (esame superato).
+* **2014** — GSAC Workshop: *GSAC Software Training*.
+* **2009** — *National School-Conference on Molecular Materials for Photonics and Electronics*.

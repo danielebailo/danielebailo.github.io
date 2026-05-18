@@ -27,7 +27,15 @@ Updated bibliometric indicators (citations, h-index) and the full list of public
 
 ## Scientific Publications
 
+### 2025
+
+- **[NO JCR]** Marchetti, D.; Bailo, D.; Michalek, J.; Paciello, R.; Falcone, G.; Piscini, A. **A Multiparametric Investigation of an Earthquake by a Jupyter Notebook: The Case Study of the Amatrice-Norcia Italian Seismic Sequence 2016-2017**. *Computational Science and Its Applications – ICCSA 2025 Workshops* (2025). DOI: <https://doi.org/10.1007/978-3-031-97657-5_19>
+- **[NO JCR]** Giuliacci, K.; Bailo, D.; Paciello, R.; Michalek, J.; Vinciarelli, V.; Sbarra, M.; Salvi, M.; Martinez, E. **Metadata-Driven Cross-Infrastructure Integration Between Solid Earth and Marine Sciences in the GEO-INQUIRE Project**. *Metadata and Semantic Research* (2025). DOI: <https://doi.org/10.1007/978-3-031-81974-2_25>
+- **[NO JCR]** Cocco, M.; Paciello, R.; Bailo, D.; Locati, M.; Tanlongo, F.; Schirru, L.; Fredella, M. I.; Mercurio, D.; Freda, C. **The ethical dimension of sharing solid Earth Science data**. *Journal of Geoethics and Social Geosciences* (2025). DOI: <https://doi.org/10.4401/jgsg-64>
+
 ### 2024
+
+- **[NO JCR]** Bailo, D.; Paciello, R.; Exter, K.; Vinciarelli, V.; Jeffery, K. G.; Adamaki, A.; Giuliacci, K.; Bundke, U.; Schleiermacher, C. **The ENVRI Catalogue of Services: A Road-Test for Environmental Research Infrastructure Metadata Harmonisation and Interoperability**. *Metadata and Semantic Research* (2024). DOI: <https://doi.org/10.1007/978-3-031-65990-4_24>
 
 - **[NO JCR]** Bailo, D.; Paciello, R.; Michalek, J.; Mercurio, D.; Sangianantoni, A.; Saleh Contell, K.; Lange, O.; Maracchia, G.; Atakan, K.; Jeffery, K. G.; Freda, C. **Data management in distributed, federated Research Infrastructures: the case of EPOS**. *Data Science Journal* (special issue: Data Management Planning across Disciplines and Infrastructures). DOI: <https://doi.org/10.5334/dsj-2024-005>
 
@@ -119,6 +127,25 @@ Updated bibliometric indicators (citations, h-index) and the full list of public
 
 ## Software development
 
+### Missi1: un software per la gestione missioni della Sezione Roma 1 (INGV) (2025)
+
+**Authors:** Caprara, F.; Valvona, A. M.; Bailo, D.; Di Stefano, G.  
+**URL/DOI:** <https://doi.org/10.13127/rpt/504>  
+
+Missi1: un software per la gestione missioni della Sezione Roma 1 (INGV) è descritto in *Rapporti Tecnici INGV* ed è incluso qui come output software secondo la classificazione BibTeX.
+
+---
+
+### VRE for a multiparametric analysis of Amatrice 2016 earthquake in Jupyter Notebook with Matlab kernel version (2025)
+
+**Authors:** Marchetti, D.; Bailo, D.; Michalek, J.; Paciello, R.; Falcone, G.; Piscini, A.  
+**URL/DOI:** <https://doi.org/10.5281/zenodo.15365529>  
+**License:** MIT License  
+
+Output software classificato nel BibTeX come sviluppo software.
+
+---
+
 ### EPOS Platform Open Source (2022)
 
 **Autori:** Bailo, D.; Paciello, R.; Vinciarelli, V.; Giuliacci, K.; Michalek, J.; Sbarra, M.; Salvi, M.; Roquencourt, J.-B.; Glaves, H.; Jeffery, K.; Atakan, K.; Nedrebø, H.; Warren, D.; Fares, M.  
@@ -171,6 +198,13 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
 ---
 
 ## Project deliverables
+
+- **Tanlongo, F.; Paciello, R.; Michalek, J.; Bailo, D.; Locati, M. (2025).**  
+  *EPOS Data, Data products, Software and Services Citation Guide.*  
+  Zenodo.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.15022118>
+
+---
 
 - **Bailo, D.; Giuliacci, K.; Vinciarelli, V.; Näsholm, P.; Paciello, R. (2023).**  
   *Geo-INQUIRE – D6.2: Report on existing metadata schemes, mappings and converters required both to populate the catalog and for integration with the relevant RIs.*  
@@ -272,6 +306,100 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
 ---
 
 ## Conference Proceedings
+
+### 2026
+
+- **Ramanantsoa, J.; Strollo, A.; Haslinger, F.; Quinteros, J.; Bailo, D.; Lange, O.; Laurens, S.; Naesholm, S. P.; Sørensen, M. B.**  
+  *Bridging fragmented terminologies: advancing vocabulary harmonization in Seismology through AI and community co-creation.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-13673>
+- **Salvi, M.; Vinciarelli, V.; Paciello, R.; Bailo, D.; Crocetta, A.; Giuliacci, K.; Sbarra, M.; Turco, A.; Malitesta, M.; Roquencourt, J.-B.; Carrere, M.; Michalek, J.; Roy, B.; Card, C.**  
+  *Evolution of the EPOS Platform Open Source.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-17829>
+- **Cotton, F.; Strollo, A.; Pedersen, H.; Danciu, L.; Haslinger, F.; Urvois, M.; Rohling, V.; Lorito, S.; Babeyko, A.; Bailo, D.; Michalek, J.; Lange, O.; Quinteros, J.; Festa, G.; Murphy, S.; Majdański, M.; Christadler, I.; Türker, E.; Weege, S.; Litwin Prestes, M.**  
+  *Fostering Curiosity-Driven Research on the Solid Earth: the Geo-INQUIRE project.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-10661>
+- **Maracchia, G.; Paciello, R.; Tanlongo, F.; Freda, C.; Sangianantoni, A.; Bailo, D.; Piras, D.**  
+  *Implementing Gender Equality and DEI in Geoscience: the Experience of EPOS ERIC, a Research Infrastructure Serving the Needs of the Solid Earth Science Community.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-7911>
+- **Marchetti, D.; Bailo, D.; Falcone, G.; Michalek, J.; Paciello, R.; Piscini, A.**  
+  *SEISMO-VRE: a tool to perform an automatic multiparametric investigation of earthquake, volcano eruption and other natural or artificial hazards.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-14727>
+- **Fonzetti, R.; Bailo, D.; Valoroso, L.; De Gori, P.; Chiarabba, C.**  
+  *The Impact of Probability Thresholds and Model Training on Phase Picking Performance.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-11512>
+- **Michálek, J.; Giuliacci, K.; Vinciarelli, V.; Paciello, R.; Bailo, D.; Hooijer, T.; van der Neut, I.; Roquencourt, J.-B.**  
+  *Jupyter Notebooks as a learning tool in European Plate Observing System (EPOS) for multidisciplinary research.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-7667>
+- **Bundke, U.; Bailo, D.; Dema, C.; De Nart, D.; Dobler, D.; Drago, F.; Gutierrez David, M.; Hienola, A.; Petzold, A.; Vermeulen, A.; Zhao, Z.**  
+  *The ENVRI-Hub: A Platform for Advancing Environmental and Earth Sciences through Integrated Virtual Research Environments.*  
+  EGU General Assembly 2026.  
+  DOI: <https://doi.org/10.5194/egusphere-egu26-7865>
+
+### 2025
+
+- **Marchetti, D.; Bailo, D.; Michalek, J.; Paciello, R.; Falcone, G.**  
+  *A Jupyter Notebook devoted to a multiparametric investigation of the Amatrice-Norcia Italian seismic sequence 2016-2017.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-13827>
+- **Salvi, M.; Paciello, R.; Vinciarelli, V.; Giuliacci, K.; Bailo, D.; Orviz, P.; Jeffery, K.; Volpe, M.; Tonini, R.; Guerrero, A.**  
+  *Advancing Computational Workflow Sharing in Earth Science: Insights from DT-GEO and Geo-INQUIRE.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-6201>
+- **Hienola, A.; Bundke, U.; Vermeulen, A.; Adamaki, A.; Gutierez, M.; Drago, F.; Brus, M.; Bailo, D.; Dema, C.; Zhao, Z.**  
+  *ENVRI-Hub Advancing Integrated Environmental Research and Policy.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-2813>
+- **Fonzetti, R.; Bailo, D.; De Gori, P.; Valoroso, L.; Anselmi, M.; Bagh, S.; Trani, L.; Chiarabba, C.**  
+  *How do automatic phase pickings based on deep neural networks perform on different-scale case studies?*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-5992>
+- **Michalek, J.; Giuliacci, K.; Spinuso, A.; Trani, L.; Bailo, D.; Paciello, R.; van der Neut, I.; Kocot, J.; Marchetti, D. A.**  
+  *Jupyter Notebooks in European Plate Observing System (EPOS).*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-11023>
+- **Giuliacci, K.; Paciello, R.; Sbarra, M.; Vinciarelli, V.; Salvi, M.; Bailo, D.; Michalek, J.; Mtupa-Ndiaye, A.; Chanthaw, F.**  
+  *Linking services to enhance multidisciplinary dataset usability with semantic metadata in the Geo-INQUIRE Project.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-15067>
+- **Ramanantsoa, J.; Bailo, D.; Michalek, J.; Näsholm, S. P.; Paciello, R.; Strollo, A.**  
+  *Optimizing Transnational and Virtual Access: A Data-Driven Framework for Managing Geoscience Research Infrastructure.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-10649>
+- **Bundke, U.; Adamaki, A.; Bailo, D.; Brus, M.; Dema, C.; De Nart, D.; Drago, F.; Gutierrez David, M.; Hienola, A.; Petzold, A.; Vermeulen, A.; Zhao, Z.**  
+  *The ENVRI-Hub: Advancing Multidisciplinary Collaboration and FAIR Data Integration in Environmental Research.*  
+  EGU General Assembly 2025.  
+  DOI: <https://doi.org/10.5194/egusphere-egu25-9099>
+- **Vinciarelli, V.; Paciello, R.; Bailo, D.; Goffi, C.; Warren, D.; Lavrnja-Czapski, J.; Card, C.; Atkinson, P.; Shelley, W.; Roquencourt, J.-B.; Retout, Y.; Glaves, H.; Giuliacci, K.; Michalek, J.; Molander, J.; Nedrebø, H.; Lange, O.; Freda, C.; Saleh-Contell, K.; Sbarra, M.**  
+  *Advancing Open Data Portals: Learnings from the EPOS Open-Source Solution.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-7931>
+- **Bundke, U.; Bailo, D.; Carval, T.; Cervone, L.; De Nart, D.; Dema, C.; Ferrari, T.; Petzold, A.; Thijsse, P.; Vermeulen, A.; Zhao, Z.**  
+  *ENVRI-Hub-NEXT, the open-access platform of the environmental sciences community in Europe.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-8465>
+- **Murphy, S.; Festa, G.; Lorito, S.; Röhling, V.; Cotton, F.; Strollo, A.; Urvois, M.; Babeyko, A.; Bailo, D.; Michalek, J.; Lange, O.; Quinteros, J.; Majdanski, M.; Christadler, I.; Prestes, M.; Weege, S.**  
+  *EU-financed transnational access in Geo-INQUIRE: an opportunity for researchers to develop leading-edge science at selected test-beds and research facilities across Europe.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-10742>
+- **Michalek, J.; Bailo, D.; Quinteros, J.; Lange, O.; Paciello, R.; Vinciarelli, V.; Giuliacci, K. A.**  
+  *Methodology for building interoperable Research Infrastructures: Example from Geo-INQUIRE project.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-11538>
+- **Giuliacci, K.; Bailo, D.; Michalek, J.; Paciello, R.; Vinciarelli, V.; Goffi, C.; Strollo, A.; Cotton, F.; Nedrebø, H.; Näsholm, S. P.; Brissaud, Q.; Kaschwich, T.; Martinez, E.; Maslo, A.; Röhling, V.; Frezot, O.; Quinteros, J.; Atakan, K.; zu Castell, W.**  
+  *Multidisciplinary integration of FAIR Research Infrastructures in the Geo-INQUIRE initiative: the EPOS – EMSO case.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-11000>
+- **Bailo, D.; Paciello, R.; Glaves, H.; Roquencourt, J.-B.; Molander, J.; Spinuso, A.; Langeland, T.; Michalek, J.; Lange, O.; Sangianantoni, A.; Bruyninx, C.; Freda, C. A.**  
+  *The EPOS open source platform for multidisciplinary data integration and data analysis in solid Earth science.*  
+  EGU General Assembly 2024.  
+  DOI: <https://doi.org/10.5194/egusphere-egu24-5989>
 
 ### 2023
 
@@ -559,6 +687,36 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
 ---
 
 ## Dissemination and knowledge transfer activities (seminars, lectures, workshops)
+
+- **Methodological / training material** — **Bailo, D.**, *Drawing the Boundaries of Artificial Intelligence: A body-driven perspective*.  
+  Zenodo, 2025.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.17822354>
+
+---
+
+- **Methodological / training material** — **Fonzetti, R.; Bailo, D.; De Gori, P.; Govoni, A.; Valoroso, L.; Anselmi, M.; Bagh, S.; Chiarabba, C.**, *Shaking Things Up with Deep Learning: From Training to Model Benchmarking and Seismic Catalog Building*.  
+  Zenodo, 2025.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.17132565>
+
+---
+
+- **Methodological / training material** — **Fonzetti, R.; Bailo, D.; Trani, L.**, *Unbalanced Learning: Deep Training Challenges in Seismic Phase Detection*.  
+  Zenodo, 2025.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.17132653>
+
+---
+
+- **Methodological / training material** — **Puglisi, G.; Bailo, D.; Peters-von Gehlen, K.; Bumberger, J.; Steenbeek, J.; Lange, O.; Bonforte, A.; Sieck, K.; Cervone, L.; Krijger, T.; Sanchez Macias, J. L.; Thiemann, H.; Benincasa, F.; Garavelli, S.; Hof, C.; Clea Lumina, D.; Endresen, D.; Hugo, W.**, *A Framework for Data Readiness (DaReFF)*.  
+  Zenodo, 2025.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.15186740>
+
+---
+
+- **Methodological / training material** — **Bailo, D.; Cocco, M.; Michalek, J.; Nedrebø, H.; Paciello, R.; Stuebe, K. C.; Tanlongo, F.**, *Focus On Interoperability: The EPOS Approach*.  
+  Zenodo, 2024.  
+  DOI/URL: <https://doi.org/10.5281/zenodo.13682758>
+
+---
 
 - **Contribution** — ICT Workshop INGV 2021, Rome (IT), 05–06 October 2021.  
   Presentation: *EPOS Data Portal – a FAIR platform for access to multidisciplinary Solid Earth data and services*.

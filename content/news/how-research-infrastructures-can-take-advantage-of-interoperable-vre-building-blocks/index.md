@@ -1,6 +1,7 @@
 ---
 title: "How Research Infrastructures can take advantage of interoperable VRE building blocks"
 date: 2018-08-09
+translationKey: "how-research-infrastructures-can-take-advantage-of-interoperable-vre-building-blocks"
 categories: 
   - "job"
   - "musica-video"

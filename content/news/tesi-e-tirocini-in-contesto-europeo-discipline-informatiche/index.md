@@ -1,6 +1,7 @@
 ---
 title: "Tesi e Tirocini in contesto Europeo - Discipline informatiche"
 date: 2019-06-10
+translationKey: "tesi-e-tirocini-in-contesto-europeo-discipline-informatiche"
 categories: 
   - "job"
   - "technology-ict"

@@ -1,6 +1,7 @@
 ---
 title: "EPOS Integrated Core Services Architecture Basics - TUTORIAL"
 date: 2019-07-11
+translationKey: "epos-integrated-core-services-architecture-basics-tutorial"
 categories: 
   - "job"
   - "technology-ict"

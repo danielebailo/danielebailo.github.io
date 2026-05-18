@@ -1,6 +1,7 @@
 ---
 title: "Come sgominare i parassiti statali"
 date: 2018-07-21
+translationKey: "sgominare-i-parassiti-statali"
 categories: 
   - "job"
   - "riflessioni"

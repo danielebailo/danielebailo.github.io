@@ -1,6 +1,7 @@
 ---
 title: "The three components to ENVRI-hub success"
 date: 2021-06-01
+translationKey: "the-three-components-to-envri-hub-success"
 categories: 
   - "job"
   - "technology-ict"

@@ -1,6 +1,7 @@
 ---
 title: "Scienza e social media - Part III"
 date: 2015-12-17
+translationKey: "scienza-e-social-media-part-iii"
 categories: 
   - "job"
   - "technology-ict"

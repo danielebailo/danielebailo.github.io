@@ -1,6 +1,7 @@
 ---
 title: "Equity Crowdfunding: l’Italia scende in campo"
 date: 2015-03-05
+translationKey: "equity-crowdfunding-litalia-scende-in-campo"
 categories: 
   - "crowdfunding"
   - "job"

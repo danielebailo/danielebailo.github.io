@@ -1,6 +1,7 @@
 ---
 title: "Principi e Dati F.A.I.R.: cosa sono? (Perché) ne abbiamo bisogno?"
 date: 2020-11-04
+translationKey: "principi-e-sati-f-a-i-r-cosa-sono-perche-ne-abbiamo-bisogno"
 categories: 
   - "job"
   - "technology-ict"

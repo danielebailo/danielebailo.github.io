@@ -1,6 +1,7 @@
 ---
 title: "EPOS Data Portal: una piattaforma FAIR per l'accesso a dati e servizi multidisciplinari delle Scienze della Terra solida"
 date: 2021-10-07
+translationKey: "epos-data-portal-una-piattaforma-fair-per-laccesso-a-dati-e-servizi-multidisciplinari-delle-scienze-della-terra-solida"
 categories: 
   - "job"
   - "technology-ict"

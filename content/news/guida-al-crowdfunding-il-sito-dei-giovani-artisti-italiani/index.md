@@ -1,6 +1,7 @@
 ---
 title: "Guida al Crowdfunding – il sito dei Giovani Artisti Italiani"
 date: 2015-02-23
+translationKey: "guida-al-crowdfunding-il-sito-dei-giovani-artisti-italiani"
 categories: 
   - "crowdfunding"
   - "job"

@@ -1,6 +1,7 @@
 ---
 title: "Virtual Research Environment, Science Gateways, Virtual Laboratories. What's the difference?"
 date: 2017-06-29
+translationKey: "virtual-research-environment-science-gateways-virtual-laboratories-whats-the-difference"
 categories: 
   - "job"
   - "technology-ict"

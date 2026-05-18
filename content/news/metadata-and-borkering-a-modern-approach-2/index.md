@@ -1,6 +1,7 @@
 ---
 title: "Metadata and Borkering - a modern approach #2"
 date: 2015-06-23
+translationKey: "metadata-and-borkering-a-modern-approach-2"
 categories: 
   - "job"
   - "technology-ict"

@@ -1,6 +1,7 @@
 ---
 title: "Introduzione all’Intelligenza Artificiale Applicazioni, Fondamenti e Sfide Etiche"
 date: 2025-05-08
+translationKey: "introduzione-allintelligenza-artificiale-applicazioni-fondamenti-e-sfide-etiche"
 categories: 
   - "job"
   - "technology-ict"

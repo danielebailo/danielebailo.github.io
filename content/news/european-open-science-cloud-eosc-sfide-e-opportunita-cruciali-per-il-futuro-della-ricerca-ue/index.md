@@ -1,6 +1,7 @@
 ---
 title: "European Open Science Cloud (EOSC): sfide e opportunità cruciali per il futuro della ricerca Ue"
 date: 2022-06-14
+translationKey: "european-open-science-cloud-eosc-sfide-e-opportunita-cruciali-per-il-futuro-della-ricerca-ue"
 categories: 
   - "job"
   - "technology-ict"

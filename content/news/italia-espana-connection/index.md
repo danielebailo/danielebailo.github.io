@@ -1,6 +1,7 @@
 ---
 title: "Italia - España  connection"
 date: 2016-02-08
+translationKey: "italia-espana-connection"
 categories: 
   - "job"
   - "ordinariabellezza"

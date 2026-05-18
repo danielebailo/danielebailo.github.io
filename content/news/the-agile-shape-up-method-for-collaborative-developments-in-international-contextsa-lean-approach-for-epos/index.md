@@ -1,6 +1,7 @@
 ---
 title: "The Agile Shape-up method for collaborative developments in international contexts:a lean approach for EPOS"
 date: 2022-10-11
+translationKey: "the-agile-shape-up-method-for-collaborative-developments-in-international-contextsa-lean-approach-for-epos"
 categories: 
   - "job"
   - "technology-ict"

@@ -60,3 +60,29 @@ translationKey: attivita
 
 - **Editorial Board Member** — *Nature Scientific Data*  
   **Period:** since 10/12/2024
+
+### Training and Teaching Activities
+
+- **Training Project Lead and Course Coordinator** — INGV, *Introduzione all’Intelligenza Artificiale: i 5 approcci dell’AI, AI generativa, prompt engineering ed etica dell’AI*, 11–15 May 2026, 20 hours.  
+  Certificate: </docs/attestato-responsabile-formazione-ai-ingv-2026.pdf>
+
+- **Lecturer** — INGV, *Introduzione all’Intelligenza Artificiale: i 5 approcci dell’AI, AI generativa, prompt engineering ed etica dell’AI*, 11–15 May 2026, 16 teaching hours.  
+  Certificate: </docs/attestato-docente-ai-ingv-2026.pdf>
+
+- **Trainer** — Open Science Café, *EPOS Data Portal: i principi FAIR nelle Scienze della Terra Solida*, with Massimo Cocco and Federica Tanlongo, 11 January 2024.  
+  URL: <https://learning.garr.it/enrol/index.php?id=270>
+
+- **Lecturer** — Training ReDi, *Disaster management and natural disaster risk reduction: a multidisciplinary training*, Camerino, 26–30 September 2022.  
+  Talk: *Presentation of the EPOS portal – Dr. Daniele Bailo, European Plate Observing System*.
+
+- **Lecturer** — *Practicing Open Science in Earth and Environmental Sciences*, course organised by OpenAIRE, 1 December 2021.  
+  URL: <https://www.openaire.eu/item/praticare-l-open-science-nelle-scienze-della-terra-e-dell-ambiente>
+
+- **Training contribution** — ICT Workshop INGV 2021, Rome, 5–6 October 2021.  
+  Talk: *EPOS Data Portal – una piattaforma FAIR per l’accesso a dati e servizi multidisciplinari delle Scienze della Terra solida*.
+
+- **Lecturer** — *Training Provenance Tracing in ENVRI Research Infrastructures workshop*, 16 December 2018.  
+  Talk: *The EPOS Approach using the main catalogue*, with Keith Jeffery.  
+  URL: <https://envri.eu/training-provenance-tracing-in-envri-research-infrastructures/>
+
+- **Secondary school teacher** — Istituto Tecnico Commerciale Arangio Ruiz, teaching Computer Science and Systems, class A042, 1 January – 8 July 2011.

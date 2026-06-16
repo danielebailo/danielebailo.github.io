@@ -63,7 +63,7 @@ Attività principali:
 - Coordinamento dell’Unità Funzionale “Geofisica Computazionale – Sistemi Informativi – EPOS” presso INGV Roma 1.
 - Coordinamento del progetto **AI@INGV** e promozione di attività istituzionali su AI generativa, LLM/RAG e agenti intelligenti.
 - Attività di ricerca e sperimentazione su deep learning per la sismologia, con particolare attenzione al picking automatico delle forme d’onda sismiche tramite **PhaseNet** nel framework **SeisBench** in Python.
-- Attività di formazione e disseminazione sull’intelligenza artificiale, incluse dimensioni etiche, applicazioni alle geoscienze e prospettive di Embodied Cognition.
+- Attività di formazione, docenza e disseminazione sull’intelligenza artificiale, incluse dimensioni etiche, applicazioni alle geoscienze e prospettive di Embodied Cognition.
 - Partecipazione a [**SEPAI**](https://www.sepai-international.org/), la Società per l’Etica e la Politica dell’Intelligenza Artificiale.
 - Organizzazione e attività di disseminazione scientifica e tecnica, inclusi eventi istituzionali come l’**AI Day @ INGV**.
 

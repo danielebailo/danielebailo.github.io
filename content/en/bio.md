@@ -61,7 +61,7 @@ Main activities include:
 - Coordination of the Functional Unit “Computational Geophysics – Information Systems – EPOS” at INGV Rome 1.
 - Coordination of the **AI@INGV** project and promotion of institutional activities on generative AI, LLM/RAG systems and intelligent agents.
 - Research and experimentation on deep learning for seismology, with a focus on automatic picking of seismic waveforms using **PhaseNet** within the **SeisBench** framework in Python.
-- Training and dissemination activities on artificial intelligence, including ethical dimensions, geoscience applications and Embodied Cognition perspectives.
+- Training, teaching and dissemination activities on artificial intelligence, including ethical dimensions, geoscience applications and Embodied Cognition perspectives.
 - Participation in [**SEPAI**](https://www.sepai-international.org/), the Society for the Ethics and Politics of Artificial Intelligence.
 - Organisation and participation in scientific and technical dissemination activities, including institutional events such as **AI Day @ INGV**.
 

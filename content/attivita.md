@@ -62,3 +62,29 @@ aliases:
 
 - **Editorial Board Member** — *Nature Scientific Data*  
   **Periodo:** dal 10/12/2024 – ad oggi
+
+### Attività di formazione
+
+- **Responsabile del Progetto Formativo e Coordinatore del Corso** — INGV, *Introduzione all’Intelligenza Artificiale: i 5 approcci dell’AI, AI generativa, prompt engineering ed etica dell’AI*, 11–15 maggio 2026, 20 ore.  
+  Attestato: </docs/attestato-responsabile-formazione-ai-ingv-2026.pdf>
+
+- **Docente** — INGV, *Introduzione all’Intelligenza Artificiale: i 5 approcci dell’AI, AI generativa, prompt engineering ed etica dell’AI*, 11–15 maggio 2026, 16 ore di docenza.  
+  Attestato: </docs/attestato-docente-ai-ingv-2026.pdf>
+
+- **Trainer** — Open Science Café, *EPOS Data Portal: i principi FAIR nelle Scienze della Terra Solida*, con Massimo Cocco e Federica Tanlongo, 11 gennaio 2024.  
+  URL: <https://learning.garr.it/enrol/index.php?id=270>
+
+- **Lecturer** — Training ReDi, *Disaster management and natural disaster risk reduction: a multidisciplinary training*, Camerino, 26–30 settembre 2022.  
+  Intervento: *Presentation of the EPOS portal – Dr. Daniele Bailo, European Plate Observing System*.
+
+- **Docente** — *Practicing Open Science in Earth and Environmental Sciences*, corso organizzato da OpenAIRE, 1 dicembre 2021.  
+  URL: <https://www.openaire.eu/item/praticare-l-open-science-nelle-scienze-della-terra-e-dell-ambiente>
+
+- **Contributo formativo** — ICT Workshop INGV 2021, Roma, 5–6 ottobre 2021.  
+  Intervento: *EPOS Data Portal – una piattaforma FAIR per l’accesso a dati e servizi multidisciplinari delle Scienze della Terra solida*.
+
+- **Docente** — *Training Provenance Tracing in ENVRI Research Infrastructures workshop*, 16 dicembre 2018.  
+  Intervento: *The EPOS Approach using the main catalogue*, con Keith Jeffery.  
+  URL: <https://envri.eu/training-provenance-tracing-in-envri-research-infrastructures/>
+
+- **Docente di scuola secondaria** — Istituto Tecnico Commerciale Arangio Ruiz, insegnamento di Informatica e Sistemi, classe A042, 1 gennaio – 8 luglio 2011.

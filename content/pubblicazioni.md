@@ -29,6 +29,10 @@ Gli indicatori bibliometrici aggiornati (citazioni, h-index) e l’elenco comple
 
 ## Pubblicazioni Scientifiche
 
+### 2026
+
+- **Researcher-Curated Knowledge Governance for Trustworthy Scientific AI in the Geosciences: the RockGPT Approach**. *Earth Science Informatics* (2026). DOI: <https://doi.org/10.1007/s12145-026-02197-5>
+
 ### 2025
 
 - **[NO JCR]** Marchetti, D.; Bailo, D.; Michalek, J.; Paciello, R.; Falcone, G.; Piscini, A. **A Multiparametric Investigation of an Earthquake by a Jupyter Notebook: The Case Study of the Amatrice-Norcia Italian Seismic Sequence 2016-2017**. *Computational Science and Its Applications – ICCSA 2025 Workshops* (2025). DOI: <https://doi.org/10.1007/978-3-031-97657-5_19>

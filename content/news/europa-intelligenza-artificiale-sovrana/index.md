@@ -15,6 +15,11 @@ tags:
   - "rockgpt"
   - "geoscience"
   - "epos"
+cover:
+  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12145-026-02197-5/MediaObjects/12145_2026_2197_Fig4_HTML.png"
+  alt: "Confronto dei punteggi medi dei modelli nelle configurazioni baseline e RAG-enhanced"
+  caption: "Punteggi medi dei modelli nelle configurazioni baseline e RAG-enhanced (Figura 4)."
+  relative: false
 draft: false
 ---
 
@@ -94,6 +99,10 @@ L'obiettivo è costruire un assistente scientifico del quale ci si possa fidare.
 Le risposte non devono soltanto sembrare convincenti. Devono essere fondate su fonti scientifiche selezionate e mantenute da esperti del settore, essere tracciabili e poter essere controllate.
 
 È una differenza sottile soltanto in apparenza. In realtà è la differenza tra un sistema che produce testo e un sistema che può diventare parte responsabile del processo scientifico.
+
+![Confronto dei punteggi medi dei modelli nelle configurazioni baseline e RAG-enhanced](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12145-026-02197-5/MediaObjects/12145_2026_2197_Fig4_HTML.png)
+
+*Punteggi medi dei modelli nelle configurazioni baseline e RAG-enhanced (Figura 4).*
 
 ## Perché è importante per l'Europa
 

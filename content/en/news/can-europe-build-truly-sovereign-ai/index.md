@@ -15,6 +15,11 @@ tags:
   - "rockgpt"
   - "geoscience"
   - "epos"
+cover:
+  image: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12145-026-02197-5/MediaObjects/12145_2026_2197_Fig4_HTML.png"
+  alt: "Comparison of average model scores for the baseline and RAG-enhanced configurations"
+  caption: "Average model scores for the baseline and RAG-enhanced configurations (Figure 4)."
+  relative: false
 draft: false
 ---
 
@@ -56,6 +61,10 @@ RockGPT combines:
 - institutional deployment on self-hosted infrastructure.
 
 The objective is not simply to answer questions, but to ensure that answers are grounded in trusted scientific sources selected and maintained by domain experts.
+
+![Comparison of average model scores for the baseline and RAG-enhanced configurations](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12145-026-02197-5/MediaObjects/12145_2026_2197_Fig4_HTML.png)
+
+*Average model scores for the baseline and RAG-enhanced configurations (Figure 4).*
 
 ## Why This Matters for Europe
 

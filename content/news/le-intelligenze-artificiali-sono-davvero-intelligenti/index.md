@@ -2,6 +2,7 @@
 title: "Le intelligenze artificiali sono davvero intelligenti?"
 date: 2026-08-27
 description: "Che cosa l’intelligenza artificiale generativa può insegnarci sulle macchine, sull’intelligenza e, forse, su noi stessi."
+translationKey: "le-intelligenze-artificiali-sono-davvero-intelligenti"
 categories:
   - "job"
   - "technology-ict"

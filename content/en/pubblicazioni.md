@@ -754,6 +754,8 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
 ## Outreach articles and science communication
 *(web, social media, outreach magazines)*
 
+- **Bailo, D.** (2026). *Inside the Mind of Artificial Intelligence* [*Dentro la mente dell’intelligenza artificiale*]. **Sapere**, No. 4/2026 (July-August 2026). URL: <https://www.saperescienza.it/openaccess/dentro-la-mente-dellintelligenza-artificiale/>
+
 - **Bailo, D.** (2022). *European Open Science Cloud (EOSC): crucial challenges and opportunities for the future of EU research*.  
   **Agenda Digitale**, 14 June 2022.  
   URL: <https://www.agendadigitale.eu/infrastrutture/european-open-science-cloud-eosc-sfide-e-opportunita-cruciali-per-il-futuro-della-ricerca-ue/>

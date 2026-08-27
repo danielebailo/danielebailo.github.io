@@ -756,6 +756,8 @@ Supporta la creazione e la gestione dell’infrastruttura di ricerca distribuita
 ## Produzione di articoli divulgativi e comunicazione scientifica  
 *(web, social media, riviste di divulgazione)*
 
+- **Bailo, D.** (2026). *Dentro la mente dell’intelligenza artificiale*. **Sapere**, n. 4/2026 (luglio-agosto 2026). URL: <https://www.saperescienza.it/openaccess/dentro-la-mente-dellintelligenza-artificiale/>
+
 - **Bailo, D.** (2022). *European Open Science Cloud (EOSC): crucial challenges and opportunities for the future of EU research*.  
   **Agenda Digitale**, 14 giugno 2022.  
   URL: <https://www.agendadigitale.eu/infrastrutture/european-open-science-cloud-eosc-sfide-e-opportunita-cruciali-per-il-futuro-della-ricerca-ue/>

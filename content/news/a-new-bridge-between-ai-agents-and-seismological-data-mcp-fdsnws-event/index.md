@@ -14,6 +14,11 @@ tags:
   - "softwarex"
   - "open-source"
   - "geoscience"
+cover:
+  image: "images/softwarex-mcp-fdsnws-event.png"
+  alt: "Pagina del paper mcp-fdsnws-event pubblicato su SoftwareX"
+  caption: "Il paper mcp-fdsnws-event pubblicato su SoftwareX."
+  relative: true
 draft: false
 ---
 

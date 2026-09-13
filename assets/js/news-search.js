@@ -45,13 +45,16 @@
     count.textContent = items.length === 1 ? '1 news trovata' : `${items.length} news trovate`;
     results.innerHTML = items.map((item) => `
       <article class="post-entry news-search-result">
-        <header class="entry-header">
-          <h2>${escapeHtml(item.title)}</h2>
-        </header>
-        <div class="entry-content">
-          <p>${escapeHtml(item.summary || '').slice(0, 240)}${item.summary && item.summary.length > 240 ? '…' : ''}</p>
+        ${item.image ? `<img class="news-search-thumb" src="${escapeHtml(item.image)}" alt="" loading="lazy" width="120">` : ''}
+        <div class="news-search-result-body">
+          <header class="entry-header">
+            <h2>${escapeHtml(item.title)}</h2>
+          </header>
+          <div class="entry-content">
+            <p>${escapeHtml(item.summary || '').slice(0, 240)}${item.summary && item.summary.length > 240 ? '…' : ''}</p>
+          </div>
+          <footer class="entry-footer">${escapeHtml(item.date || '')}</footer>
         </div>
-        <footer class="entry-footer">${escapeHtml(item.date || '')}</footer>
         <a class="entry-link" aria-label="Apri ${escapeHtml(item.title)}" href="${item.permalink}"></a>
       </article>
     `).join('');

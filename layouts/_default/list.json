@@ -1,6 +1,14 @@
 {{- $index := slice -}}
 {{- range .RegularPagesRecursive -}}
   {{- if not .Params.searchHidden -}}
+    {{- $image := "" -}}
+    {{- $page := . -}}
+    {{- with .Params.cover.image -}}
+      {{- $cover := ($page.Resources.ByType "image").GetMatch (printf "*%s*" .) -}}
+      {{- if $cover -}}
+        {{- $image = ($cover.Resize "160x").RelPermalink -}}
+      {{- end -}}
+    {{- end -}}
     {{- $index = $index | append (dict
       "title" .Title
       "content" .Plain
@@ -9,6 +17,7 @@
       "date" (.Date.Format "2006-01-02")
       "tags" (.Params.tags | default slice)
       "categories" (.Params.categories | default slice)
+      "image" $image
     ) -}}
   {{- end -}}
 {{- end -}}

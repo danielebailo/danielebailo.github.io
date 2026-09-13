@@ -1,0 +1,4 @@
+{{- if and (eq .Section "news") (eq .Kind "section") -}}
+{{- $newsSearch := resources.Get "js/news-search.js" | resources.Minify | fingerprint -}}
+<script defer src="{{ $newsSearch.RelPermalink }}" integrity="{{ $newsSearch.Data.Integrity }}"></script>
+{{- end -}}

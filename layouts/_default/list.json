@@ -1,0 +1,15 @@
+{{- $index := slice -}}
+{{- range .RegularPagesRecursive -}}
+  {{- if not .Params.searchHidden -}}
+    {{- $index = $index | append (dict
+      "title" .Title
+      "content" .Plain
+      "permalink" .RelPermalink
+      "summary" (.Summary | plainify | htmlUnescape)
+      "date" (.Date.Format "2006-01-02")
+      "tags" (.Params.tags | default slice)
+      "categories" (.Params.categories | default slice)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}

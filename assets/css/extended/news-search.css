@@ -1,0 +1,64 @@
+.news-search {
+  margin: 18px 0 28px;
+}
+
+.news-search-label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--secondary);
+  font-size: 14px;
+}
+
+.news-search-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+}
+
+.news-search-icon {
+  flex: 0 0 auto;
+  color: var(--secondary);
+}
+
+#newsSearchInput {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--primary);
+  font: inherit;
+}
+
+#newsSearchInput::placeholder {
+  color: var(--secondary);
+}
+
+.news-search-count {
+  margin: 10px 0 0;
+  color: var(--secondary);
+  font-size: 14px;
+}
+
+.news-search-results {
+  margin-top: 14px;
+}
+
+.news-search-hidden {
+  display: none;
+}
+
+.news-search-result .entry-header h2 {
+  font-size: 24px;
+}
+
+#menu a[aria-label="Cerca nelle news"] span {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  font-size: 18px;
+}

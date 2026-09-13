@@ -90,7 +90,10 @@
 
   fetch(container.dataset.indexUrl)
     .then((response) => response.json())
-    .then((data) => { index = data || []; })
+    .then((data) => {
+      index = data || [];
+      if (input.value.trim()) search();
+    })
     .catch(() => { count.textContent = 'La ricerca non è disponibile in questo momento.'; });
 
   input.addEventListener('input', search);

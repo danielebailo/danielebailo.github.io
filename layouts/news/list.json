@@ -4,9 +4,12 @@
     {{- $image := "" -}}
     {{- $page := . -}}
     {{- with .Params.cover.image -}}
-      {{- $cover := ($page.Resources.ByType "image").GetMatch (printf "*%s*" .) -}}
+      {{- $coverImage := . -}}
+      {{- $cover := ($page.Resources.ByType "image").GetMatch (printf "*%s*" $coverImage) -}}
       {{- if $cover -}}
         {{- $image = ($cover.Resize "160x").RelPermalink -}}
+      {{- else if or (hasPrefix $coverImage "http://") (hasPrefix $coverImage "https://") -}}
+        {{- $image = $coverImage -}}
       {{- end -}}
     {{- end -}}
     {{- $index = $index | append (dict

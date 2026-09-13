@@ -13,7 +13,10 @@
 }
 
 .news-search {
-  margin: 18px 0 28px;
+  width: calc(100vw - var(--gap) * 2);
+  max-width: 1080px;
+  margin: 18px 0 28px 50%;
+  transform: translateX(-50%);
 }
 
 .news-search-label {
@@ -144,8 +147,13 @@
 }
 
 .news-archive li a:hover,
+.news-archive li a.active,
 .news-archive-all:hover {
   text-decoration: underline;
+}
+
+.news-archive li a.active {
+  font-weight: 600;
 }
 
 .news-archive-count {
@@ -191,7 +199,8 @@
 }
 
 @media (max-width: 900px) {
-  .news-layout {
+  .news-layout,
+  .news-search {
     display: block;
     width: auto;
     max-width: none;

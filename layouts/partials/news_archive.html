@@ -1,18 +1,19 @@
 {{- $pages := where .Site.RegularPages "Section" "news" -}}
+{{- $isIt := eq .Lang "it" -}}
 {{- $monthsIt := dict "01" "Gennaio" "02" "Febbraio" "03" "Marzo" "04" "Aprile" "05" "Maggio" "06" "Giugno" "07" "Luglio" "08" "Agosto" "09" "Settembre" "10" "Ottobre" "11" "Novembre" "12" "Dicembre" -}}
 {{- $monthsEn := dict "01" "January" "02" "February" "03" "March" "04" "April" "05" "May" "06" "June" "07" "July" "08" "August" "09" "September" "10" "October" "11" "November" "12" "December" -}}
-<aside class="news-archive" aria-label="Archivio news">
-  <h2>Archivio</h2>
-  <a class="news-archive-all" href="{{ "news/" | absLangURL }}#news-search">Tutte le news</a>
+<aside class="news-archive" aria-label="{{ cond $isIt "Archivio news" "News archive" }}">
+  <h2>{{ cond $isIt "Archivio" "Archive" }}</h2>
+  <a class="news-archive-all" href="{{ "news/" | absLangURL }}#news-search" data-news-clear>{{ cond $isIt "Tutte le news" "All news" }}</a>
   {{- range ($pages.GroupByDate "2006") }}
   <section class="news-archive-year">
     <h3>{{ .Key }}</h3>
     <ul>
       {{- range (.Pages.GroupByDate "2006-01") }}
       {{- $monthNumber := substr .Key 5 2 -}}
-      {{- $monthName := cond (eq $.Lang "it") (index $monthsIt $monthNumber) (index $monthsEn $monthNumber) -}}
+      {{- $monthName := cond $isIt (index $monthsIt $monthNumber) (index $monthsEn $monthNumber) -}}
       <li>
-        <a href="{{ "news/" | absLangURL }}?mese={{ .Key }}#news-search">
+        <a href="{{ "news/" | absLangURL }}#news-search" data-news-month="{{ .Key }}" data-news-month-label="{{ $monthName }} {{ substr .Key 0 4 }}">
           <span>{{ $monthName }}</span>
           <span class="news-archive-count">{{ len .Pages }}</span>
         </a>

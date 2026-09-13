@@ -18,6 +18,7 @@
       "permalink" .RelPermalink
       "summary" (.Summary | plainify | htmlUnescape)
       "date" (.Date.Format "2006-01-02")
+      "month" (.Date.Format "2006-01")
       "tags" (.Params.tags | default slice)
       "categories" (.Params.categories | default slice)
       "image" $image

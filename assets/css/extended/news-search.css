@@ -1,3 +1,17 @@
+.news-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 28px;
+  width: calc(100vw - var(--gap) * 2);
+  max-width: 1080px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.news-list {
+  min-width: 0;
+}
+
 .news-search {
   margin: 18px 0 28px;
 }
@@ -90,6 +104,104 @@
 
   .news-search-result .entry-header h2 {
     font-size: 18px;
+  }
+}
+
+.news-archive {
+  position: sticky;
+  top: calc(var(--header-height) + 18px);
+  align-self: start;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+}
+
+.news-archive h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.news-archive h3 {
+  margin: 16px 0 6px;
+  color: var(--secondary);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.news-archive ul {
+  list-style: none;
+}
+
+.news-archive li a,
+.news-archive-all {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 5px 0;
+  color: var(--primary);
+  font-size: 14px;
+}
+
+.news-archive li a:hover,
+.news-archive-all:hover {
+  text-decoration: underline;
+}
+
+.news-archive-count {
+  color: var(--secondary);
+}
+
+.news-search-count a {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+.news-tags {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.news-tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.news-tag-cloud a {
+  display: inline-flex;
+  gap: 5px;
+  padding: 4px 9px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--secondary);
+  background: var(--code-bg);
+  font-size: 13px;
+}
+
+.news-tag-cloud a:hover {
+  color: var(--primary);
+  text-decoration: none;
+  background: var(--border);
+}
+
+.news-tag-cloud span {
+  color: var(--secondary);
+}
+
+@media (max-width: 900px) {
+  .news-layout {
+    display: block;
+    width: auto;
+    max-width: none;
+    margin-left: 0;
+    transform: none;
+  }
+
+  .news-archive {
+    position: static;
+    margin-top: 28px;
   }
 }
 

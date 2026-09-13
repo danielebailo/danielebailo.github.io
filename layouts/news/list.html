@@ -53,6 +53,8 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
+<div class="news-layout">
+  <section class="news-list" aria-label="Elenco news">
 {{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}
@@ -116,6 +118,9 @@
   </nav>
 </footer>
 {{- end }}
+  </section>
+  {{- partial "news_archive.html" . }}
+</div>
 
 {{- end }}{{/* end profileMode */}}
 

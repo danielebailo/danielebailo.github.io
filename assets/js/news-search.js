@@ -6,6 +6,8 @@
   const results = document.getElementById('newsSearchResults');
   const count = document.getElementById('newsSearchCount');
   const posts = Array.from(document.querySelectorAll('article.post-entry, article.first-entry'));
+  const params = new URLSearchParams(window.location.search);
+  const archiveMonth = params.get('mese') || '';
   let index = [];
 
   const normalize = (value) => (value || '')
@@ -22,14 +24,20 @@
     '"': '&quot;'
   })[char]);
 
+  const formatMonth = (value) => {
+    const [year, month] = (value || '').split('-');
+    const names = ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'];
+    return year && month ? `${names[Number(month) - 1]} ${year}` : value;
+  };
+
   function setDefaultState() {
     results.innerHTML = '';
     count.textContent = '';
     posts.forEach((post) => post.classList.remove('news-search-hidden'));
   }
 
-  function render(items, query) {
-    if (!query) {
+  function render(items, active) {
+    if (!active) {
       setDefaultState();
       return;
     }
@@ -42,7 +50,8 @@
       return;
     }
 
-    count.textContent = items.length === 1 ? '1 news trovata' : `${items.length} news trovate`;
+    const archiveText = archiveMonth ? ` in ${formatMonth(archiveMonth)}` : '';
+    count.innerHTML = `${items.length === 1 ? '1 news trovata' : `${items.length} news trovate`}${archiveText}${archiveMonth ? ' · <a href="./#news-search">mostra tutte</a>' : ''}`;
     results.innerHTML = items.map((item) => `
       <article class="post-entry news-search-result">
         ${item.image ? `<img class="news-search-thumb" src="${escapeHtml(item.image)}" alt="" loading="lazy" width="120">` : ''}
@@ -63,13 +72,17 @@
   function search() {
     const query = input.value.trim();
     const terms = normalize(query).split(/\s+/).filter(Boolean);
-    if (!terms.length) {
-      render([], '');
+    const active = Boolean(terms.length || archiveMonth);
+
+    if (!active) {
+      render([], false);
       return;
     }
 
     const matches = index
+      .filter((item) => !archiveMonth || item.month === archiveMonth)
       .map((item) => {
+        if (!terms.length) return { item, score: 0 };
         const haystack = normalize([
           item.title,
           item.summary,
@@ -85,14 +98,14 @@
       .sort((a, b) => a.score - b.score)
       .map((match) => match.item);
 
-    render(matches, query);
+    render(matches, active);
   }
 
   fetch(container.dataset.indexUrl)
     .then((response) => response.json())
     .then((data) => {
       index = data || [];
-      if (input.value.trim()) search();
+      if (input.value.trim() || archiveMonth) search();
     })
     .catch(() => { count.textContent = 'La ricerca non è disponibile in questo momento.'; });
 

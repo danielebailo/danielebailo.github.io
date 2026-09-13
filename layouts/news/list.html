@@ -28,7 +28,6 @@
   </div>
   {{- end }}
 </header>
-{{- partial "news_search.html" . }}
 {{- end }}
 
 {{- if .Content }}
@@ -54,7 +53,10 @@
 
 {{- $term := .Data.Term }}
 <div class="news-layout">
+  {{- partial "news_search.html" . }}
   <section class="news-list" aria-label="Elenco news">
+    <p id="newsSearchCount" class="news-search-count" aria-live="polite"></p>
+    <div id="newsSearchResults" class="news-search-results" aria-label="Risultati ricerca news"></div>
 {{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}

@@ -13,10 +13,8 @@
 }
 
 .news-search {
-  width: calc(100vw - var(--gap) * 2);
-  max-width: 1080px;
-  margin: 18px 0 28px 50%;
-  transform: translateX(-50%);
+  grid-column: 1 / -1;
+  margin: 0 0 4px;
 }
 
 .news-search-label {

@@ -1,6 +1,7 @@
 ---
 title: "Scienza e social media - Part IV (the end)"
 date: 2015-12-19
+comments: true
 translationKey: "scienza-e-social-media-part-iv-the-end"
 categories: 
   - "job"

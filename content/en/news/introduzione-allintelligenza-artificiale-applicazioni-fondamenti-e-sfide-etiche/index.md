@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Artificial Intelligence: Applications, Foundations, and Ethical Challenges"
 date: 2025-05-08
+comments: true
 translationKey: "introduzione-allintelligenza-artificiale-applicazioni-fondamenti-e-sfide-etiche"
 categories: 
   - "job"

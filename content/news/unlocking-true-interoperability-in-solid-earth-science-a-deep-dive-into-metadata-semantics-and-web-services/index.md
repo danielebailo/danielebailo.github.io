@@ -1,6 +1,7 @@
 ---
 title: "Unlocking True Interoperability in Solid Earth Science: A Deep Dive into Metadata, Semantics, and Web Services"
 date: 2023-09-12
+comments: true
 translationKey: "unlocking-true-interoperability-in-solid-earth-science-a-deep-dive-into-metadata-semantics-and-web-services"
 categories: 
   - "job"

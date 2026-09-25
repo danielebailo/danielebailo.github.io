@@ -1,6 +1,7 @@
 ---
 title: "A new bridge between AI agents and seismological data: mcp-fdsnws-event"
 date: 2026-09-10
+comments: true
 description: "È uscito su SoftwareX il paper che presenta mcp-fdsnws-event, un gateway MCP per interrogare servizi FDSNWS-Event da agenti AI."
 translationKey: "mcp-fdsnws-event-softwarex"
 categories:

@@ -1,6 +1,7 @@
 ---
 title: "Working with an Enlightened Mind (not an ENEL advertisement) (EGU #3)"
 date: 2013-04-16
+comments: true
 translationKey: "lavorare-con-un-genio-egu-3"
 categories: 
   - "job"

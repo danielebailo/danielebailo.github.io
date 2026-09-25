@@ -1,6 +1,7 @@
 ---
 title: "Nuova sezione News"
 date: 2024-12-12T10:00:00+01:00
+comments: true
 description: "Avvio della sezione News per condividere aggiornamenti tecnici e progettuali."
 tags: ["aggiornamenti", "progetti"]
 draft: false

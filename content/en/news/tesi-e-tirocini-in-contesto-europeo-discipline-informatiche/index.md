@@ -1,6 +1,7 @@
 ---
 title: "Theses and Internships in a European Context - Computer Science and IT"
 date: 2019-06-10
+comments: true
 translationKey: "tesi-e-tirocini-in-contesto-europeo-discipline-informatiche"
 categories: 
   - "job"

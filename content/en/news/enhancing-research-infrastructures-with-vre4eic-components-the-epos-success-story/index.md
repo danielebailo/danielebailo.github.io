@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Research Infrastructures with VRE4EIC components: the EPOS success story"
 date: 2018-10-30
+comments: true
 translationKey: "enhancing-research-infrastructures-with-vre4eic-components-the-epos-success-story"
 categories: 
   - "job"

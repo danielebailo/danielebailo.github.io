@@ -1,6 +1,7 @@
 ---
 title: "INGV Is Hiring 3 IT Technicians for the EPOS Platform"
 date: 2022-03-30
+comments: true
 translationKey: "ingv-epos-assume-tecnico-informatico-2"
 categories: 
   - "job"

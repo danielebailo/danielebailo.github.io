@@ -1,6 +1,7 @@
 ---
 title: "Guide to Crowdfunding: the Italian Young Artists Website"
 date: 2015-02-23
+comments: true
 translationKey: "guida-al-crowdfunding-il-sito-dei-giovani-artisti-italiani"
 categories: 
   - "crowdfunding"

@@ -1,6 +1,7 @@
 ---
 title: "Managing collaborative software developments in International Initiatives: how to optimize resources and time."
 date: 2021-12-21
+comments: true
 translationKey: "managing-collaborative-software-developments-in-international-initiatives-how-to-optimize-resources-and-time"
 categories: 
   - "job"

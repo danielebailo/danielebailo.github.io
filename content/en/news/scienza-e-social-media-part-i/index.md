@@ -1,6 +1,7 @@
 ---
 title: "Science and Social Media - Part I"
 date: 2015-12-13
+comments: true
 translationKey: "scienza-e-social-media-part-i"
 categories: 
   - "job"

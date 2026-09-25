@@ -1,6 +1,7 @@
 ---
 title: "Are Artificial Intelligences Really Intelligent?"
 date: 2026-08-27
+comments: true
 description: "What generative artificial intelligence can teach us about machines, intelligence and, perhaps, ourselves."
 translationKey: "le-intelligenze-artificiali-sono-davvero-intelligenti"
 categories:

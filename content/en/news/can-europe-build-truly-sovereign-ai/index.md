@@ -1,6 +1,7 @@
 ---
 title: "Can Europe Build Truly Sovereign AI?"
 date: 2026-08-06
+comments: true
 description: "Why trustworthy scientific AI requires researcher-curated knowledge, institutional governance, and sovereign infrastructure."
 translationKey: "sovereign-ai-rockgpt"
 categories:

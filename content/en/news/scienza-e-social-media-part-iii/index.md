@@ -1,6 +1,7 @@
 ---
 title: "Science and Social Media - Part III"
 date: 2015-12-17
+comments: true
 translationKey: "scienza-e-social-media-part-iii"
 categories: 
   - "job"

@@ -1,6 +1,7 @@
 ---
 title: "Innovation in Earth Science: the EPOS Data Portal"
 date: 2023-11-23
+comments: true
 translationKey: "linnovazione-nel-mondo-della-scienza-della-terra-il-portale-dati-epos"
 categories: 
   - "job"

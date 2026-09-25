@@ -28,6 +28,7 @@ disableDefaultLanguageRedirect = true
   ShowReadingTime = false
   ShowPostNavLinks = false
   hideTranslations = true
+  commentsHashOverURL = "https://www.danielebailo.it/comments-hashover/comments.php"
 
   [params.profileMode]
     enabled = true

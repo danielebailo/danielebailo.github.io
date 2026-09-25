@@ -1,6 +1,7 @@
 ---
 title: "Il Piacere di pensare"
 date: 2026-09-11
+comments: true
 translationKey: "il-piacere-di-pensare"
 categories:
   - "job"

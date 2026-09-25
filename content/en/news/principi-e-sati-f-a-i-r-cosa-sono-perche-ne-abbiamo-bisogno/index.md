@@ -1,6 +1,7 @@
 ---
 title: "F.A.I.R. Principles and Data: What Are They, and Why Do We Need Them?"
 date: 2020-11-04
+comments: true
 translationKey: "principi-e-sati-f-a-i-r-cosa-sono-perche-ne-abbiamo-bisogno"
 categories: 
   - "job"

@@ -1,6 +1,7 @@
 ---
 title: "What is EPOS? 4 Publications to get a grasp on what EPOS ERIC is and does"
 date: 2022-05-10
+comments: true
 translationKey: "what-is-epos-4-publications-to-get-a-grasp-on-what-epos-eric-is-and-does"
 categories: 
   - "job"

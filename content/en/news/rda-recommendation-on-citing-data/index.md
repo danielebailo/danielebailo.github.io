@@ -1,6 +1,7 @@
 ---
 title: "RDA - recommendation on citing data"
 date: 2015-05-27
+comments: true
 translationKey: "rda-recommendation-on-citing-data"
 categories: 
   - "job"

@@ -1,6 +1,7 @@
 ---
 title: "How to Defeat State Parasites"
 date: 2018-07-21
+comments: true
 translationKey: "sgominare-i-parassiti-statali"
 categories: 
   - "job"

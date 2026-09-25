@@ -1,6 +1,7 @@
 ---
 title: "A Congress of Geoscientists? (alias: EGU #1)"
 date: 2013-04-10
+comments: true
 translationKey: "un-congresso-di-geoscienziati-alias-egu-1"
 categories: 
   - "job"

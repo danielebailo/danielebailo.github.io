@@ -1,6 +1,7 @@
 ---
 title: "#italiasicura"
 date: 2015-06-03
+comments: true
 translationKey: "italiasicura"
 categories: 
   - "job"

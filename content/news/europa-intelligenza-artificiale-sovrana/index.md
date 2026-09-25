@@ -1,6 +1,7 @@
 ---
 title: "L'Europa può costruire un'Intelligenza Artificiale davvero sovrana?"
 date: 2026-08-06
+comments: true
 description: "Perché un'AI scientifica affidabile richiede conoscenza curata dai ricercatori, governance istituzionale e infrastrutture sovrane."
 translationKey: "sovereign-ai-rockgpt"
 categories:

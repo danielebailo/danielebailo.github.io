@@ -1,6 +1,7 @@
 ---
 title: "The Women of Lisbon Have Beautiful Calves..."
 date: 2015-06-10
+comments: true
 translationKey: "le-donne-di-lisbona-hanno-bei-polpacci"
 categories: 
   - "job"

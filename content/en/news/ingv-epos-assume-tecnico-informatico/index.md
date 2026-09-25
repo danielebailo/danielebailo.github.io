@@ -1,6 +1,7 @@
 ---
 title: "INGV Is Hiring 3 IT Technicians for EPOS"
 date: 2019-10-06
+comments: true
 translationKey: "ingv-epos-assume-tecnico-informatico"
 categories: 
   - "job"

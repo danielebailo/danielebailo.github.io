@@ -1,6 +1,7 @@
 ---
 title: "Interoperability and Richardson Maturity Model"
 date: 2015-02-17
+comments: true
 translationKey: "interoperability-and-richardson-maturity-model"
 categories: 
   - "job"

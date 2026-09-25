@@ -1,6 +1,7 @@
 ---
 title: "Google: the Rocco Siffredi of Technology (EGU #2)"
 date: 2013-04-13
+comments: true
 translationKey: "google-il-rocco-siffredi-della-tecnologia-egu2"
 categories: 
   - "job"

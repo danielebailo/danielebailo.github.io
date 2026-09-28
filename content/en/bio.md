@@ -17,6 +17,8 @@ He is **Scientific Coordinator of European projects** within the *ENVRI, EOSC, a
 
 His scientific activity includes **numerous contributions to international peer-reviewed journals**, as well as technical reports, conference proceedings, and invited talks at European conferences, with a growing focus on the application of artificial intelligence in Earth Sciences and on the ethical dimensions of AI.
 
+If you’d like to know more about my personal life, visit my [personal website](https://personal.danielebailo.it/).
+
 ---
 
 ## Education

@@ -17,7 +17,9 @@ All’INGV ricopre inoltre il ruolo di **Responsabile dell’Unità Funzionale �
 
 È **Responsabile Scientifico di progetti europei** nella galassia *ENVRI, EOSC, VREs* e riveste ruoli di **Work Package Leader** e **Task Leader** in numerosi consorzi Horizon Europe e Horizon 2020. Ha guidato gruppi tecnici internazionali e contribuito alla definizione di modelli architetturali, standard semantici, metadati e processi FAIR per la comunità della Solid Earth Science.
 
-La sua attività scientifica comprende **numerosi contributi su riviste internazionali peer-reviewed**, oltre a rapporti tecnici, proceedings e interventi in conferenze europee, con un focus crescente sull’uso dell’intelligenza artificiale nelle scienze della Terra e sulla dimensione etica dell'AI. 
+La sua attività scientifica comprende **numerosi contributi su riviste internazionali peer-reviewed**, oltre a rapporti tecnici, proceedings e interventi in conferenze europee, con un focus crescente sull’uso dell’intelligenza artificiale nelle scienze della Terra e sulla dimensione etica dell'AI.
+
+Se ti interessa la mia vita personale, puoi visitare il mio [sito personale](https://personal.danielebailo.it/).
 
 ---
 

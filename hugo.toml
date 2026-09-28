@@ -30,6 +30,9 @@ disableDefaultLanguageRedirect = true
   hideTranslations = true
   commentsHashOverURL = "https://www.danielebailo.it/comments-hashover/comments.php"
 
+  [params.footer]
+    text = "[Personal website](https://personal.danielebailo.it/)"
+
   [params.profileMode]
     enabled = true
     title = "Daniele Bailo"

@@ -36,13 +36,16 @@ disableDefaultLanguageRedirect = true
     subtitle = """
 <span class="hero-copy">
   <span class="hero-role">AI Initiative Coordinator @ INGV | IT Officer @ EPOS-ERIC</span>
-  <span class="hero-main">Responsible AI & Research Data Infrastructure Lead | Scientific AI Ethics & Governance | GeoAI/ML & LLM/RAG</span>
+  <span class="hero-main">Responsible AI & Research Data Infrastructure Lead | Scientific AI Ethics & Governance</span>
   <span class="hero-keywords">
-    <span>GeoAI</span>
+    <span>GeoAI/ML</span>
     <span>FAIR Data</span>
     <span>Open Science</span>
     <span>Research Infrastructures</span>
     <span>AI Ethics</span>
+    <span>LLM</span>
+    <span>RAG</span>
+    <span>SeismicML</span>
   </span>
 </span>
 """

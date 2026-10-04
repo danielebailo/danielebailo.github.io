@@ -47,8 +47,7 @@
 }
 
 @media screen and (min-width: 769px) {
-    .profile .hero-role,
-    .profile .hero-main {
+    .profile .hero-role {
         white-space: nowrap;
     }
 }

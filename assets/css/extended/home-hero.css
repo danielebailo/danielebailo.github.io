@@ -1,3 +1,11 @@
+.profile .profile_inner > img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
 .profile .hero-copy {
     display: flex;
     flex-direction: column;

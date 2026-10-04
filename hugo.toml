@@ -95,7 +95,7 @@ disableDefaultLanguageRedirect = true
 
     [[languages.it.menu.main]]
       identifier = "news"
-      name = "News"
+      name = "Blog"
       url = "news/"
       weight = 25
 
@@ -114,7 +114,7 @@ disableDefaultLanguageRedirect = true
     [[languages.it.menu.main]]
       identifier = "news-search"
       name = "🔍"
-      title = "Cerca nelle news"
+      title = "Cerca nel blog"
       url = "news/#news-search"
       weight = 50
 
@@ -139,7 +139,7 @@ disableDefaultLanguageRedirect = true
 
     [[languages.en.menu.main]]
       identifier = "news"
-      name = "News"
+      name = "Blog"
       url = "news/"
       weight = 25
 
@@ -158,6 +158,6 @@ disableDefaultLanguageRedirect = true
     [[languages.en.menu.main]]
       identifier = "news-search"
       name = "🔍"
-      title = "Search news"
+      title = "Search blog"
       url = "news/#news-search"
       weight = 50

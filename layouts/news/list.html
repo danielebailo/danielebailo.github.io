@@ -54,7 +54,7 @@
 {{- $term := .Data.Term }}
 <div class="news-layout">
   {{- partial "news_search.html" . }}
-  <section class="news-list" aria-label="Elenco news">
+  <section class="news-list" aria-label="{{ cond (eq .Lang "it") "Articoli del blog" "Blog posts" }}">
     <p id="newsSearchCount" class="news-search-count" aria-live="polite"></p>
     <div id="newsSearchResults" class="news-search-results" aria-label="Risultati ricerca news"></div>
 {{- range $index, $page := $paginator.Pages }}

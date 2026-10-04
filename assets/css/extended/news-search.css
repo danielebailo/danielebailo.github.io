@@ -212,7 +212,7 @@
   }
 }
 
-#menu a[aria-label="Cerca nelle news"] span {
+#menu a[title="Cerca nel blog"] span {
   display: inline-flex;
   align-items: center;
   line-height: 1;

@@ -8,8 +8,8 @@
   const posts = Array.from(document.querySelectorAll('article.post-entry, article.first-entry'));
   const params = new URLSearchParams(window.location.search);
   const isEnglish = document.documentElement.lang && document.documentElement.lang.startsWith('en');
-  let currentMonth = params.get('mese') || '';
-  let currentMonthLabel = '';
+  // Accept old month-based links and reduce them to their year.
+  let currentYear = params.get('anno') || (params.get('mese') || '').slice(0, 4);
   let index = [];
 
   const normalize = (value) => (value || '')
@@ -26,19 +26,11 @@
     '"': '&quot;'
   })[char]);
 
-  const formatMonth = (value) => {
-    const [year, month] = (value || '').split('-');
-    const namesIt = ['Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno', 'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'];
-    const namesEn = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    const names = isEnglish ? namesEn : namesIt;
-    return year && month ? `${names[Number(month) - 1]} ${year}` : value;
-  };
-
   function setDefaultState() {
     results.innerHTML = '';
     count.textContent = '';
     posts.forEach((post) => post.classList.remove('news-search-hidden'));
-    document.querySelectorAll('[data-news-month].active').forEach((link) => link.classList.remove('active'));
+    document.querySelectorAll('[data-news-year].active').forEach((link) => link.classList.remove('active'));
   }
 
   function render(items, active) {
@@ -50,17 +42,17 @@
     posts.forEach((post) => post.classList.add('news-search-hidden'));
 
     if (!items.length) {
-      count.textContent = isEnglish ? 'No news found.' : 'Nessuna news trovata.';
+      count.textContent = isEnglish ? 'No articles found.' : 'Nessun articolo trovato.';
       results.innerHTML = '';
       return;
     }
 
-    const archiveText = currentMonth ? ` ${isEnglish ? 'in' : 'in'} ${currentMonthLabel || formatMonth(currentMonth)}` : '';
+    const archiveText = currentYear ? ` ${isEnglish ? 'in' : 'nel'} ${currentYear}` : '';
     const foundText = items.length === 1
-      ? (isEnglish ? '1 news item found' : '1 news trovata')
-      : (isEnglish ? `${items.length} news items found` : `${items.length} news trovate`);
-    const clearText = isEnglish ? 'show all' : 'mostra tutte';
-    count.innerHTML = `${foundText}${archiveText}${currentMonth ? ` · <a href="#news-search" data-news-clear>${clearText}</a>` : ''}`;
+      ? (isEnglish ? '1 article found' : '1 articolo trovato')
+      : (isEnglish ? `${items.length} articles found` : `${items.length} articoli trovati`);
+    const clearText = isEnglish ? 'show all' : 'mostra tutti';
+    count.innerHTML = `${foundText}${archiveText}${currentYear ? ` · <a href="#news-search" data-news-clear>${clearText}</a>` : ''}`;
 
     results.innerHTML = items.map((item) => `
       <article class="post-entry news-search-result">
@@ -82,7 +74,7 @@
   function search() {
     const query = input.value.trim();
     const terms = normalize(query).split(/\s+/).filter(Boolean);
-    const active = Boolean(terms.length || currentMonth);
+    const active = Boolean(terms.length || currentYear);
 
     if (!active) {
       render([], false);
@@ -90,7 +82,7 @@
     }
 
     const matches = index
-      .filter((item) => !currentMonth || item.month === currentMonth)
+      .filter((item) => !currentYear || (item.date || '').slice(0, 4) === currentYear)
       .map((item) => {
         if (!terms.length) return { item, score: 0 };
         const haystack = normalize([
@@ -111,28 +103,27 @@
     render(matches, active);
   }
 
-  function activateMonth(month, label) {
-    currentMonth = month || '';
-    currentMonthLabel = label || '';
-    document.querySelectorAll('[data-news-month].active').forEach((link) => link.classList.remove('active'));
-    if (currentMonth) {
-      document.querySelectorAll(`[data-news-month="${currentMonth}"]`).forEach((link) => link.classList.add('active'));
+  function activateYear(year) {
+    currentYear = year || '';
+    document.querySelectorAll('[data-news-year].active').forEach((link) => link.classList.remove('active'));
+    if (currentYear) {
+      document.querySelectorAll(`[data-news-year="${currentYear}"]`).forEach((link) => link.classList.add('active'));
     }
-    history.replaceState(null, '', currentMonth ? `?mese=${encodeURIComponent(currentMonth)}#news-search` : './#news-search');
+    history.replaceState(null, '', currentYear ? `?anno=${encodeURIComponent(currentYear)}#news-search` : './#news-search');
     search();
     setTimeout(() => container.scrollIntoView({ behavior: 'smooth', block: 'start' }), 0);
   }
 
   document.addEventListener('click', (event) => {
-    const monthLink = event.target.closest('[data-news-month]');
+    const yearLink = event.target.closest('[data-news-year]');
     const clearLink = event.target.closest('[data-news-clear]');
-    if (monthLink) {
+    if (yearLink) {
       event.preventDefault();
-      activateMonth(monthLink.dataset.newsMonth, monthLink.dataset.newsMonthLabel);
+      activateYear(yearLink.dataset.newsYear);
     } else if (clearLink) {
       event.preventDefault();
       input.value = '';
-      activateMonth('', '');
+      activateYear('');
     }
   });
 
@@ -140,11 +131,11 @@
     .then((response) => response.json())
     .then((data) => {
       index = data || [];
-      if (currentMonth) {
-        const link = document.querySelector(`[data-news-month="${currentMonth}"]`);
-        currentMonthLabel = link ? link.dataset.newsMonthLabel : '';
+      if (currentYear) {
+        const link = document.querySelector(`[data-news-year="${currentYear}"]`);
+        if (link) link.classList.add('active');
       }
-      if (input.value.trim() || currentMonth) search();
+      if (input.value.trim() || currentYear) search();
     })
     .catch(() => { count.textContent = isEnglish ? 'Search is not available right now.' : 'La ricerca non è disponibile in questo momento.'; });
 

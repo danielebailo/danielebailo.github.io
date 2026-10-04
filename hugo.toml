@@ -79,6 +79,12 @@ disableDefaultLanguageRedirect = true
     contentDir = "content"
 
     [[languages.it.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+    [[languages.it.menu.main]]
       identifier = "bio"
       name = "Bio"
       url = "bio/"
@@ -119,6 +125,12 @@ disableDefaultLanguageRedirect = true
     weight = 2
     languageCode = "en-GB"
     contentDir = "content/en"
+
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
 
     [[languages.en.menu.main]]
       identifier = "bio"

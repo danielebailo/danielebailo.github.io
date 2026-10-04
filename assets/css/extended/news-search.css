@@ -211,10 +211,3 @@
     margin-top: 28px;
   }
 }
-
-#menu a[title="Cerca nel blog"] span {
-  display: inline-flex;
-  align-items: center;
-  line-height: 1;
-  font-size: 18px;
-}

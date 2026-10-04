@@ -30,9 +30,6 @@ disableDefaultLanguageRedirect = true
   hideTranslations = true
   commentsHashOverURL = "https://www.danielebailo.it/comments-hashover/comments.php"
 
-  [params.footer]
-    text = "[Personal website](https://personal.danielebailo.it/)"
-
   [params.profileMode]
     enabled = true
     title = "Daniele Bailo"
@@ -106,18 +103,16 @@ disableDefaultLanguageRedirect = true
       weight = 30
 
     [[languages.it.menu.main]]
+      identifier = "personal"
+      name = "Personal"
+      url = "https://personal.danielebailo.it/"
+      weight = 35
+
+    [[languages.it.menu.main]]
       identifier = "contatti"
       name = "Contatti"
       url = "contatti/"
       weight = 40
-
-    [[languages.it.menu.main]]
-      identifier = "news-search"
-      name = "🔍"
-      title = "Cerca nel blog"
-      url = "news/#news-search"
-      weight = 50
-
 
   [languages.en]
     languageName = "EN"
@@ -150,14 +145,13 @@ disableDefaultLanguageRedirect = true
       weight = 30
 
     [[languages.en.menu.main]]
+      identifier = "personal"
+      name = "Personal"
+      url = "https://personal.danielebailo.it/"
+      weight = 35
+
+    [[languages.en.menu.main]]
       identifier = "contatti"
       name = "Contacts"
       url = "contatti/"
       weight = 40
-
-    [[languages.en.menu.main]]
-      identifier = "news-search"
-      name = "🔍"
-      title = "Search blog"
-      url = "news/#news-search"
-      weight = 50

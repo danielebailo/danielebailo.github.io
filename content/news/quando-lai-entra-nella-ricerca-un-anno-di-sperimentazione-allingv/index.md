@@ -3,6 +3,11 @@ title: "Quando l’AI entra nella ricerca: un anno di sperimentazione all’INGV
 date: 2026-11-17
 comments: true
 description: "Un anno di sperimentazione sull’intelligenza artificiale generativa nei flussi di lavoro delle Scienze della Terra all’INGV."
+cover:
+  image: "images/annals-cover.jpg"
+  alt: "Cover of Annals of Geophysics volume 69, 2026"
+  caption: "Annals of Geophysics, Volume 69 (2026)"
+  relative: true
 categories:
   - "job"
   - "technology-ict"
